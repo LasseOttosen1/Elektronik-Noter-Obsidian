@@ -50,3 +50,4 @@ opgave 1 og 2 side 397
 1 : Input gaten's minimum V, burde være højere ned output gatens minimum V, derfor er de ikke compatible. 
 2: Input gaten's maximum er højere end output gatens maximum, derfor er de compatible for LOW- states opretaions.  Det kan også ses på dette diagram
 ![[Pasted image 20260826134546.png]]
+hej test
