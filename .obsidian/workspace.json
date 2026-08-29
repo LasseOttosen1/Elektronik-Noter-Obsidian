@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Elektronik Noter/E1IDE/Opgavereging 1___.md",
+                "file": "Elektronik Noter/test/hallo mand det er en test.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Opgavereging 1___"
+              "title": "hallo mand det er en test"
             }
           }
         ]
@@ -211,13 +211,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2ed83c1c7b5038d5",
+  "active": "ccda5ec21a8381da",
   "lastOpenFiles": [
+    "Elektronik Noter/E1IDE/Opgavereging 1___.md",
+    "Elektronik Noter/test/hallo mand det er en test.md",
     "Elektronik Noter/test",
     "Elektronik/Sw1msys microcontroller systems/Lab01.md",
     "Elektronik Noter/Sw1msys microcontroller systems/Lab01.md",
     "Elektronik Noter/Sw1msys microcontroller systems/Convertere fra decimal til binær og HEX.md",
-    "Elektronik Noter/E1IDE/Opgavereging 1___.md",
     "Elektronik Noter/Elmek fysik/intruduktion til kredsløb.md",
     "Elektronik Noter/OPRG/0x00.md",
     "Elektronik Noter/Sw1msys microcontroller systems",
@@ -234,7 +235,6 @@
     "Elektronik NOter/Elmek fysik",
     "Elektronik NOter/E1IDE",
     "Elektronik NOter/OPRG",
-    "Elektronik NOter",
     "Billeder/Pasted image 20260828111838.png",
     "Billeder/Pasted image 20260827151916.png",
     "Billeder/Pasted image 20260827151912.png",
