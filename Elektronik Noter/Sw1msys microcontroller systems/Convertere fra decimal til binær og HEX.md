@@ -1,0 +1,1 @@
+![[Pasted image 20260825094826.png]]![[Pasted image 20260825094859.png]]Man kan bruge sin windows lommeregner til at regne alle typer om til en anden. 
