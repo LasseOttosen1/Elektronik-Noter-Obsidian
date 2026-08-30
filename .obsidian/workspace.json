@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Elektronik Noter/Elmek matematik/Vigtige formler.md",
+                "file": "Elektronik Noter/test 2/test.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Vigtige formler"
+              "title": "test"
             }
           }
         ]
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Elektronik Noter/Elmek matematik/Vigtige formler.md",
+                "file": "Elektronik Noter/test 2/test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Elektronik Noter/Elmek matematik/Vigtige formler.md",
+                "file": "Elektronik Noter/test 2/test.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -211,10 +211,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2ed83c1c7b5038d5",
+  "active": "ccda5ec21a8381da",
   "lastOpenFiles": [
-    "Elektronik Noter/test 2",
     "Elektronik Noter/Elmek matematik/Vigtige formler.md",
+    "Elektronik Noter/test 2/test.md",
+    "Elektronik Noter/test 2",
     "Billeder/Pasted image 20260830221521.png",
     "Elektronik Noter/E1IDE/Opgavereging 1___.md",
     "Billeder/Pasted image 20260830220315.png",
@@ -238,7 +239,6 @@
     "Elektronik NOter/E1IDE/Opgavereging 1.md",
     "Elektronik NOter/Sw1msys microcontroller systems",
     "Elektronik NOter/Elmek fysik",
-    "Elektronik NOter/E1IDE",
     "Billeder/Pasted image 20260828111838.png",
     "Billeder/Pasted image 20260827151916.png",
     "Billeder/Pasted image 20260827151912.png",
