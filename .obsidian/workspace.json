@@ -195,7 +195,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 273.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -211,10 +211,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c36fbd68e98beeed",
+  "active": "ccda5ec21a8381da",
   "lastOpenFiles": [
-    "Elektronik Noter/E1IDE/Opgavereging 1___.md",
     "Elektronik Noter/Elmek matematik/Vigtige formler.md",
+    "Billeder/Pasted image 20260830221521.png",
+    "Elektronik Noter/E1IDE/Opgavereging 1___.md",
     "Billeder/Pasted image 20260830220315.png",
     "Elektronik Noter/Elmek fysik/intruduktion til kredsløb.md",
     "Elektronik Noter/Elmek matematik",
@@ -245,7 +246,6 @@
     "Billeder/Pasted image 20260827145752.png",
     "Billeder/Pasted image 20260827144105.png",
     "Billeder/Pasted image 20260827143951.png",
-    "Billeder/Pasted image 20260827143946.png",
     "Elektronik/Sw1msys microcontroller systems/Convertere fra decimal til binær og HEX.md",
     "Elektronik/OPRG/0x00.md",
     "Elektronik 1/Elmek fysik/intruduktion til kredsløb.md",
@@ -257,7 +257,6 @@
     "Elektronik/Elmek fysik/intruduktion til kredsløb.md",
     "Excalidraw/Drawing 2026-08-27 14.36.42.excalidraw.md",
     "Excalidraw/Drawing 2026-08-27 12.50.11.excalidraw.md",
-    "Excalidraw/Drawing 2026-08-26 13.23.42.excalidraw.md",
-    "Untitled.md"
+    "Excalidraw/Drawing 2026-08-26 13.23.42.excalidraw.md"
   ]
 }
