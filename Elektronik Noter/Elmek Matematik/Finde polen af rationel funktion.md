@@ -9,10 +9,15 @@ x=2
 (s+1)(5+s)=0
 x-1 og -5
 ![[Pasted image 20260831210232.png]]
+![[Pasted image 20260831210246.png]]
 
 
 ![[Pasted image 20260831204549.png]]
-
+x=0
+![[Pasted image 20260831210354.png]]
 
 ![[Pasted image 20260831204622.png]]
 
+s=-2  og s=1
+![[Pasted image 20260831210520.png]]
+![[Pasted image 20260831210533.png]]
