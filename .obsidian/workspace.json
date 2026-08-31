@@ -188,9 +188,21 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "d3006850b30b294a",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "Excalidraw/Drawing 2026-08-27 12.50.11.excalidraw.md"
+              },
+              "icon": "lucide-info",
+              "title": "File properties"
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -210,7 +222,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ccda5ec21a8381da",
+  "active": "e41e243b6ef65bb3",
   "lastOpenFiles": [
     "Pasted Image 20260831163841_877.png",
     "Excalidraw/Libraries/desktop.ini",
