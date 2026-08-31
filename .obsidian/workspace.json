@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Elektronik Noter/Elmek matematik/Vigtige formler.md",
+                "file": "Elektronik Noter/Elmek matematik/Untitled.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Vigtige formler"
+              "title": "Untitled"
             }
           }
         ]
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Elektronik Noter/Elmek matematik/Vigtige formler.md",
+                "file": "Elektronik Noter/Elmek matematik/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Elektronik Noter/Elmek matematik/Vigtige formler.md",
+                "file": "Elektronik Noter/Elmek matematik/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -213,8 +213,10 @@
   },
   "active": "ccda5ec21a8381da",
   "lastOpenFiles": [
-    "Elektronik Noter/test 2/test.md",
+    "Excalidraw/Drawing 2026-08-27 12.50.11.excalidraw.md",
+    "Elektronik Noter/Elmek matematik/Untitled.md",
     "Elektronik Noter/Elmek matematik/Vigtige formler.md",
+    "Elektronik Noter/test 2/test.md",
     "Elektronik Noter/test 2",
     "Billeder/Pasted image 20260830221521.png",
     "Elektronik Noter/E1IDE/Opgavereging 1___.md",
@@ -256,8 +258,6 @@
     "Elektronik 1/OPRG/0x00.md",
     "Elektronik/E1IDE/Opgavereging 1.md",
     "Elektronik/Elmek fysik/intruduktion til kredsløb.md",
-    "Excalidraw/Drawing 2026-08-27 14.36.42.excalidraw.md",
-    "Excalidraw/Drawing 2026-08-27 12.50.11.excalidraw.md",
-    "Excalidraw/Drawing 2026-08-26 13.23.42.excalidraw.md"
+    "Excalidraw/Drawing 2026-08-27 14.36.42.excalidraw.md"
   ]
 }
