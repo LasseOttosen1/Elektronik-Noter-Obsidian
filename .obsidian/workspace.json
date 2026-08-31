@@ -11,14 +11,12 @@
             "id": "ccda5ec21a8381da",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Elektronik Noter/Elmek matematik/Untitled.md",
-                "mode": "source",
-                "source": false
+                "file": "Excalidraw/Drawing 2026-08-27 12.50.11.excalidraw.md"
               },
-              "icon": "lucide-file",
-              "title": "Untitled"
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2026-08-27 12.50.11.excalidraw"
             }
           }
         ]
@@ -99,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Elektronik Noter/Elmek matematik/Untitled.md",
+                "file": "Excalidraw/Drawing 2026-08-27 12.50.11.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Elektronik Noter/Elmek matematik/Untitled.md",
+                "file": "Excalidraw/Drawing 2026-08-27 12.50.11.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -213,8 +211,9 @@
   },
   "active": "ccda5ec21a8381da",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2026-08-27 12.50.11.excalidraw.md",
+    "Pasted Image 20260831082909_412.png",
     "Elektronik Noter/Elmek matematik/Untitled.md",
+    "Excalidraw/Drawing 2026-08-27 12.50.11.excalidraw.md",
     "Elektronik Noter/Elmek matematik/Vigtige formler.md",
     "Elektronik Noter/test 2/test.md",
     "Elektronik Noter/test 2",
@@ -257,7 +256,6 @@
     "Elektronik 1/Sw1msys microcontroller systems/Convertere fra decimal til binær og HEX.md",
     "Elektronik 1/OPRG/0x00.md",
     "Elektronik/E1IDE/Opgavereging 1.md",
-    "Elektronik/Elmek fysik/intruduktion til kredsløb.md",
-    "Excalidraw/Drawing 2026-08-27 14.36.42.excalidraw.md"
+    "Elektronik/Elmek fysik/intruduktion til kredsløb.md"
   ]
 }
