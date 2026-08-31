@@ -189,7 +189,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -211,9 +211,11 @@
   },
   "active": "ccda5ec21a8381da",
   "lastOpenFiles": [
-    "Pasted Image 20260831082909_412.png",
-    "Elektronik Noter/Elmek matematik/Untitled.md",
+    "Pasted Image 20260831083236_880.png",
     "Excalidraw/Drawing 2026-08-27 12.50.11.excalidraw.md",
+    "Excalidraw/Drawing 2026-08-27 14.36.42.excalidraw.md",
+    "Elektronik Noter/Elmek matematik/Untitled.md",
+    "Pasted Image 20260831082909_412.png",
     "Elektronik Noter/Elmek matematik/Vigtige formler.md",
     "Elektronik Noter/test 2/test.md",
     "Elektronik Noter/test 2",
@@ -247,7 +249,6 @@
     "Billeder/Pasted image 20260827151703.png",
     "Billeder/Pasted image 20260827145752.png",
     "Billeder/Pasted image 20260827144105.png",
-    "Billeder/Pasted image 20260827143951.png",
     "Elektronik/Sw1msys microcontroller systems/Convertere fra decimal til binær og HEX.md",
     "Elektronik/OPRG/0x00.md",
     "Elektronik 1/Elmek fysik/intruduktion til kredsløb.md",
@@ -255,7 +256,6 @@
     "Elektronik 1/Sw1msys microcontroller systems/Lab01.md",
     "Elektronik 1/Sw1msys microcontroller systems/Convertere fra decimal til binær og HEX.md",
     "Elektronik 1/OPRG/0x00.md",
-    "Elektronik/E1IDE/Opgavereging 1.md",
-    "Elektronik/Elmek fysik/intruduktion til kredsløb.md"
+    "Elektronik/E1IDE/Opgavereging 1.md"
   ]
 }
