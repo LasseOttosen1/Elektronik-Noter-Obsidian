@@ -11,14 +11,12 @@
             "id": "ccda5ec21a8381da",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Elektronik Noter/Elmek matematik/Finde polen af rationel funktion.md",
-                "mode": "source",
-                "source": false
+                "file": "Excalidraw/Drawing 2026-08-31 21.09.34.excalidraw.md"
               },
-              "icon": "lucide-file",
-              "title": "Finde polen af rationel funktion"
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2026-08-31 21.09.34.excalidraw"
             }
           }
         ]
@@ -196,7 +194,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Elektronik Noter/Elmek matematik/Finde polen af rationel funktion.md"
+                "file": "Excalidraw/Drawing 2026-08-31 21.09.34.excalidraw.md"
               },
               "icon": "lucide-info",
               "title": "File properties"
@@ -223,21 +221,23 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ccda5ec21a8381da",
+  "active": "2ed83c1c7b5038d5",
   "lastOpenFiles": [
+    "Billeder/Pasted Image 20260831210957_730.png",
+    "Elektronik Noter/Elmek matematik/Simplefy e opløftet i x.md",
+    "Excalidraw/Drawing 2026-08-31 21.09.34.excalidraw.md",
+    "Billeder/Pasted image 20260831210800.png",
+    "Elektronik Noter/Elmek matematik/Finde polen af rationel funktion.md",
+    "Billeder/Pasted image 20260831210533.png",
+    "Billeder/Pasted image 20260831210520.png",
+    "Billeder/Pasted image 20260831210354.png",
+    "Billeder/Pasted image 20260831210246.png",
+    "Billeder/Pasted image 20260831210232.png",
     "Pasted image 20260831210533.png",
     "Pasted image 20260831210520.png",
     "Pasted image 20260831210354.png",
     "Pasted image 20260831210246.png",
-    "Pasted image 20260831210232.png",
-    "Billeder/Pasted image 20260831204826.png",
-    "Billeder/Pasted image 20260831204622.png",
-    "Billeder/Pasted image 20260831204549.png",
-    "Billeder/Pasted image 20260831204541.png",
-    "Billeder/Pasted image 20260831204522.png",
-    "Billeder/Pasted image 20260831204510.png",
     "Elektronik Noter/Elmek matematik/Opgave A3 og A4.md",
-    "Elektronik Noter/Elmek matematik/Finde polen af rationel funktion.md",
     "Excalidraw/Drawing 2026-08-27 12.50.11.excalidraw.md",
     "conflict-files-obsidian-git.md",
     "Excalidraw/Libraries/desktop.ini",
@@ -268,8 +268,6 @@
     "Elektronik/Sw1msys microcontroller systems/Convertere fra decimal til binær og HEX.md",
     "Elektronik/OPRG/0x00.md",
     "Elektronik 1/Elmek fysik/intruduktion til kredsløb.md",
-    "Elektronik 1/E1IDE/Opgavereging 1.md",
-    "Elektronik 1/Sw1msys microcontroller systems/Lab01.md",
-    "Elektronik 1/Sw1msys microcontroller systems/Convertere fra decimal til binær og HEX.md"
+    "Elektronik 1/E1IDE/Opgavereging 1.md"
   ]
 }
