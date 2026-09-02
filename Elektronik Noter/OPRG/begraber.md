@@ -11,4 +11,6 @@ cout:
 rand(): 
 	giver dig en tilfældig værdi 
 Main():
-	Det er hoveddelen af hvor programmet bor, hvis man skal have nogle librarys ind eller andet, så skal man gøre det før 
+	Det er hoveddelen af hvor programmet bor, hvis man skal have nogle librarys ind eller andet, så skal man gøre det før main 
+return 0;
+	Det skal man bruge nå programmet slutter, i bunden af main. Den fortæller om programmet er afsluttet uden fejl, tallet 0 betyder succes. Hvis programet har en anden værdi til sidst kan det indikere fejl. 
