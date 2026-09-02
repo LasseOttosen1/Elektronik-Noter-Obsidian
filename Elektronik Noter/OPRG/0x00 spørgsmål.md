@@ -9,23 +9,25 @@
     hvis du har en string, kan den modtage tekst.
      Hvis du bruger "int", kan det modtege et tal, men kun hele tal
      Hvsi du bruger double, eller float kan du skrive decimaltal, men hvis du vil lave matematik med et helt tal, som nok kommer til at blive et desimal tal skal du bruge at skrive 1.0 eksempel på hvordan man bruger float og double 
-     ```ccp fold
-    #include <stdio.h>
+   ```ccp fold
+   #include <stdio.h> 
 
-int main() {
-    float num = 123.456789f;
+int main(){
 
-    printf("Value = %f", num);
+    double num = 123.456789123456;
+    
+    printf("Value = %.15lf", num);
 
-    return 0;
+    return 0;
+
 }
-     ```
+   ```
     ```ccp fold 
     #include <stdio.h>
 
 int main(){
     
-    double num = 123.456789123456;
+    float num = 123.456789123456;
 
     printf("Value = %.15lf", num);
 
@@ -34,8 +36,10 @@ int main(){
     ```
 	- What are their sizes?
     - How can we use them in calculations?
+    
 - Variables
     - What are they?
+    En variabel er bare en ting som du giver et værdi, det kan være et tal eller det 
     - Declaration – How do we define type, name and possible initial value?
 - Useful libraries
     - <iostream> – Input and output
