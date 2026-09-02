@@ -11,12 +11,14 @@
             "id": "ccda5ec21a8381da",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Elektronik Noter/Elmek matematik/Opgave A3 og A4.md"
+                "file": "Elektronik Noter/Elmek matematik/Finde polen af rationel funktion.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Opgave A3 og A4"
+              "icon": "lucide-file",
+              "title": "Finde polen af rationel funktion"
             }
           }
         ]
@@ -223,9 +225,9 @@
   },
   "active": "ccda5ec21a8381da",
   "lastOpenFiles": [
+    "Elektronik Noter/Elmek matematik/Opgave A3 og A4.md",
     "Elektronik Noter/Elmek matematik/Simplifiser e opløftet i x.md",
     "Elektronik Noter/Elmek matematik/Finde polen af rationel funktion.md",
-    "Elektronik Noter/Elmek matematik/Opgave A3 og A4.md",
     "Billeder/Pasted Image 20260831210957_730.png",
     "Elektronik Noter/Elmek matematik/Simplefy e opløftet i x.md",
     "Billeder/Pasted image 20260831210800.png",
