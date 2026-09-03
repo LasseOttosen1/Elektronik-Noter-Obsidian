@@ -11,12 +11,14 @@
             "id": "ccda5ec21a8381da",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Elektronik Noter/Elmek matematik/Simplifiser e opløftet i x.md"
+                "file": "Elektronik Noter/Vigtige formler.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Simplifiser e opløftet i x"
+              "icon": "lucide-file",
+              "title": "Vigtige formler"
             }
           }
         ]
@@ -223,6 +225,10 @@
   },
   "active": "ccda5ec21a8381da",
   "lastOpenFiles": [
+    "Pasted image 20260903123024.png",
+    "Pasted image 20260903122916.png",
+    "Elektronik Noter/Elmek fysik/intruduktion til kredsløb.md",
+    "Elektronik Noter/Vigtige formler.md",
     "Elektronik Noter/Elmek matematik/Simplifiser e opløftet i x.md",
     "Elektronik Noter/Elmek matematik/Finde polen af rationel funktion.md",
     "Elektronik Noter/Elmek matematik/Opgave A3 og A4.md",
@@ -241,7 +247,6 @@
     "Billeder/Pasted Image 20260831210957_730.png",
     "Elektronik Noter/Elmek matematik/Simplefy e opløftet i x.md",
     "Billeder/Pasted image 20260831210800.png",
-    "Billeder/Pasted image 20260831210533.png",
     "Excalidraw/Drawing 2026-08-27 12.50.11.excalidraw.md",
     "conflict-files-obsidian-git.md",
     "Excalidraw/Libraries/desktop.ini",
@@ -251,7 +256,6 @@
     "Elektronik Noter/Elmek matematik/Vigtige formler.md",
     "Elektronik Noter/test 2/test.md",
     "Elektronik Noter/test 2",
-    "Elektronik Noter/Elmek fysik/intruduktion til kredsløb.md",
     "Elektronik Noter/Elmek matematik",
     "Elektronik Noter/Sw1msys microcontroller systems/Lab01.md",
     "Elektronik Noter/Sw1msys microcontroller systems/Convertere fra decimal til binær og HEX.md",
@@ -266,8 +270,6 @@
     "Elektronik NOter/Sw1msys microcontroller systems/Convertere fra decimal til binær og HEX.md",
     "Elektronik NOter/Elmek fysik/intruduktion til kredsløb.md",
     "Elektronik NOter/OPRG/0x00.md",
-    "Elektronik NOter/E1IDE/Opgavereging 1.md",
-    "Elektronik/Sw1msys microcontroller systems/Convertere fra decimal til binær og HEX.md",
-    "Elektronik/OPRG/0x00.md"
+    "Elektronik NOter/E1IDE/Opgavereging 1.md"
   ]
 }
