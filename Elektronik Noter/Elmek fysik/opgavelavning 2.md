@@ -27,8 +27,14 @@ altså den skal være serieforbundet
 
 ![[Pasted image 20260903142716.png|426]]
 A)
-$0.01 mA \cdot 1000\Omega = 10V$
+$0.01 A \cdot 1000\Omega = 10V$
 
 b)
 $mA*1000\Omega = 10V$
-jeg solver efter V 
+jeg solver efter mA
+![[Pasted image 20260903144139.png]]
+2.5 mA
+
+c)
+$5*V=10mA*\Omega$
+jeg solver efter $\Omega$
