@@ -49,4 +49,20 @@ før og efter modstanden
 # OPGAVE 3
 ![[Pasted image 20260903145530.png|542]]
 a)
-for et kredsløb med en modstand i serieforbindelse, tager man spændingen med spædningen
+for et kredsløb med en modstand i serieforbindelse, tager man spændingen med modstanden lagt sammen
+![[Pasted image 20260903145740.png]]
+
+b)
+for R1 er udregningen:
+![[Pasted image 20260903145900.png]]
+For R2 er den ligeså 
+![[Pasted image 20260903145917.png]]
+og vi kan se at ved at ligge spædningsfaldet sammen for vi udgangspædningen
+$4V+8V=12V$
+
+c)
+det står i b, lol 😂
+
+d)
+jeg laver en variabel som hedder omega1, jeg solver efter hvad den første resistor skal være for at rengestykket passer med at det s
+![[Pasted image 20260903150502.png]]
