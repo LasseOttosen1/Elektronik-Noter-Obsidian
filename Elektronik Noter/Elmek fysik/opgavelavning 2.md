@@ -64,5 +64,30 @@ c)
 det står i b, lol 😂
 
 d)
-jeg laver en variabel som hedder omega1, jeg solver efter hvad den første resistor skal være for at rengestykket passer med at det s
+jeg laver en variabel som hedder omega1, jeg solver efter hvad den første resistor skal være for at rengestykket passer med at det skal give 3 mA
 ![[Pasted image 20260903150502.png]]
+Det kan man også godt tænke sig til, siden 
+![[Pasted image 20260903150722.png]]
+altså hvis V forbliver det samme, og vi skal have en større modstand
+
+---------------------------------------
+
+![[Pasted image 20260903150858.png]]
+a)
+I en parralelforbinding, hvor på den anden side af resistorene er stel (som denne opgave). vil der altid være 12 V på den ene side af resistoren og 0 på den anden af den begge. Ergo må spændingsfaldet være 12 på begge
+
+b)
+i1 er:
+![[Pasted image 20260903151117.png]]
+og den med dobbelt så stor ohm er halvdelen 
+![[Pasted image 20260903151139.png]]
+det vil sige til sammen har vi altså
+$12mA+6mA=18mA$
+
+c)
+
+det er fordi spændingen på den posative side af resistoren er 12V, og ohm mængden er forskelligt, så vil strømmen være halvdelen på den ene end den anden
+
+
+d)
+Den ekvevilente modstand, 
