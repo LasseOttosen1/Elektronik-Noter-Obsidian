@@ -22,3 +22,13 @@ Altså fordi modstanden er halveret, så for at opnå samme størm (I), så bliv
 d)
 ![[Pasted image 20260903142526.png|309]]
 altså den skal være serieforbundet 
+
+
+
+![[Pasted image 20260903142716.png|426]]
+A)
+$0.01 mA \cdot 1000\Omega = 10V$
+
+b)
+$mA*1000\Omega = 10V$
+jeg solver efter V 
