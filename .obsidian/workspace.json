@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Elektronik Noter/OPRG/begraber.md",
+                "file": "Elektronik Noter/E1IDE/power dissipation opgaver.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "begraber"
+              "title": "power dissipation opgaver"
             }
           }
         ]
@@ -225,8 +225,16 @@
   },
   "active": "e41e243b6ef65bb3",
   "lastOpenFiles": [
-    "Elektronik Noter/OPRG/0x00 spørgsmål.md",
     "Elektronik Noter/OPRG/begraber.md",
+    "Elektronik Noter/E1IDE/power dissipation opgaver.md",
+    "Billeder/Pasted image 20260902160120.png",
+    "Billeder/Pasted image 20260902155225.png",
+    "Billeder/Pasted image 20260902154825.png",
+    "Billeder/Pasted image 20260902154753.png",
+    "Billeder/Pasted image 20260902153917.png",
+    "Billeder/Pasted image 20260902153909.png",
+    "Billeder/Pasted image 20260902151609.png",
+    "Elektronik Noter/OPRG/0x00 spørgsmål.md",
     "Elektronik Noter/OPRG/0x00.md",
     "Elektronik Noter/E1IDE/Opgavereging 1___.md",
     "Elektronik Noter/Elmek matematik/Finde polen af rationel funktion.md",
@@ -236,13 +244,6 @@
     "Elektronik Noter/Elmek matematik/Simplefy e opløftet i x.md",
     "Billeder/Pasted image 20260831210800.png",
     "Billeder/Pasted image 20260831210533.png",
-    "Billeder/Pasted image 20260831210520.png",
-    "Billeder/Pasted image 20260831210354.png",
-    "Billeder/Pasted image 20260831210246.png",
-    "Billeder/Pasted image 20260831210232.png",
-    "Pasted image 20260831210533.png",
-    "Pasted image 20260831210520.png",
-    "Pasted image 20260831210354.png",
     "Excalidraw/Drawing 2026-08-27 12.50.11.excalidraw.md",
     "conflict-files-obsidian-git.md",
     "Excalidraw/Libraries/desktop.ini",
@@ -269,7 +270,6 @@
     "Elektronik NOter/OPRG/0x00.md",
     "Elektronik NOter/E1IDE/Opgavereging 1.md",
     "Elektronik/Sw1msys microcontroller systems/Convertere fra decimal til binær og HEX.md",
-    "Elektronik/OPRG/0x00.md",
-    "Elektronik 1/Elmek fysik/intruduktion til kredsløb.md"
+    "Elektronik/OPRG/0x00.md"
   ]
 }
