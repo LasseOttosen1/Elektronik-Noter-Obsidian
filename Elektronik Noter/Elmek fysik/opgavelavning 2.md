@@ -23,7 +23,7 @@ d)
 ![[Pasted image 20260903142526.png|309]]
 altså den skal være serieforbundet 
 
-
+------------------------------------------
 
 ![[Pasted image 20260903142716.png|426]]
 A)
@@ -36,5 +36,17 @@ jeg solver efter mA
 2.5 mA
 
 c)
-$5*V=10mA*\Omega$
-jeg solver efter $\Omega$
+bruger formel
+
+![[Pasted image 20260903145344.png]]
+det giver
+![[Pasted image 20260903145337.png]]
+d)
+
+før og efter modstanden
+![[Pasted image 20260903145438.png|286]]
+---------------------------------------------------------------------------------
+# OPGAVE 3
+![[Pasted image 20260903145530.png|542]]
+a)
+for et kredsløb med en modstand i serieforbindelse, tager man spændingen med spædningen
