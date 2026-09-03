@@ -90,4 +90,12 @@ det er fordi spændingen på den posative side af resistoren er 12V, og ohm mæn
 
 
 d)
-Den ekvevilente modstand, 
+Den ækvivalente modstand, udrenges ved at tage vores totale strøm (18mA) og dividere med spædningen.
+![[Pasted image 20260903152050.png]]
+det vil altså sige at den totale modstand for systemet er mindre end den mindste af det 2 realle modstande. 
+
+**Asmus/chat sagde:** det er ligesom at der er flere veje på motervejen, og man så vælger den mindst fulge, så hvis vi skal have mindre ressistance for spændingskilden/trafikken skal vi altså have flere veje strømmen kan gå(resistore/moterveje )
+
+![[Pasted image 20260903152345.png]]
+a), b), c)
+🐱‍🐉🐱‍🐉😜🤷‍♂️🤷‍♂️
