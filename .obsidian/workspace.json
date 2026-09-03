@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Elektronik Noter/Elmek fysik/intruduktion til kredsløb.md",
+                "file": "Elektronik Noter/Elmek fysik/opgavelavning 2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "intruduktion til kredsløb"
+              "title": "opgavelavning 2"
             }
           }
         ]
@@ -225,10 +225,13 @@
   },
   "active": "ccda5ec21a8381da",
   "lastOpenFiles": [
+    "Pasted image 20260903135926.png",
     "Elektronik Noter/Vigtige formler.md",
+    "Elektronik Noter/Elmek fysik/intruduktion til kredsløb.md",
+    "Elektronik Noter/Elmek fysik/opgavelavning 2.md",
+    "Pasted image 20260903135836.png",
     "Pasted image 20260903123024.png",
     "Pasted image 20260903122916.png",
-    "Elektronik Noter/Elmek fysik/intruduktion til kredsløb.md",
     "Elektronik Noter/Elmek matematik/Simplifiser e opløftet i x.md",
     "Elektronik Noter/Elmek matematik/Finde polen af rationel funktion.md",
     "Elektronik Noter/Elmek matematik/Opgave A3 og A4.md",
@@ -244,7 +247,6 @@
     "Elektronik Noter/OPRG/0x00 spørgsmål.md",
     "Elektronik Noter/OPRG/0x00.md",
     "Elektronik Noter/E1IDE/Opgavereging 1___.md",
-    "Billeder/Pasted Image 20260831210957_730.png",
     "Elektronik Noter/Elmek matematik/Simplefy e opløftet i x.md",
     "Excalidraw/Drawing 2026-08-27 12.50.11.excalidraw.md",
     "conflict-files-obsidian-git.md",
@@ -268,7 +270,6 @@
     "Elektronik NOter/Sw1msys microcontroller systems/Lab01.md",
     "Elektronik NOter/Sw1msys microcontroller systems/Convertere fra decimal til binær og HEX.md",
     "Elektronik NOter/Elmek fysik/intruduktion til kredsløb.md",
-    "Elektronik NOter/OPRG/0x00.md",
-    "Elektronik NOter/E1IDE/Opgavereging 1.md"
+    "Elektronik NOter/OPRG/0x00.md"
   ]
 }
