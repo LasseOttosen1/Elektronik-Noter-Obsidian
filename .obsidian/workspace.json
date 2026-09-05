@@ -39,12 +39,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Elektronik Noter/OPRG/0x00 spørgsmål.md",
+                "file": "Elektronik Noter/OPRG/0x01 begraber.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "0x00 spørgsmål"
+              "title": "0x01 begraber"
             }
           }
         ],
@@ -250,8 +250,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e41e243b6ef65bb3",
+  "active": "b6ce6987bbdee633",
   "lastOpenFiles": [
+    "Elektronik Noter/OPRG/begraber.md",
+    "Elektronik Noter/OPRG/0x00 spørgsmål.md",
+    "Elektronik Noter/OPRG/0x01 begraber.md",
+    "Pasted image 20260905105802.png",
+    "Pasted image 20260905105645.png",
     "Elektronik Noter/OPRG/0x00.md",
     "Billeder/Pasted image 20260903135926.png",
     "Billeder/Pasted image 20260903142247.png",
@@ -262,16 +267,12 @@
     "Billeder/Pasted image 20260903151139.png",
     "Billeder/Pasted image 20260903151117.png",
     "Billeder/Pasted image 20260903150858.png",
-    "Billeder/Pasted image 20260903150722.png",
-    "Billeder/Pasted image 20260903150502.png",
     "Elektronik Noter/Vigtige formler.md",
     "Elektronik Noter/Elmek fysik/intruduktion til kredsløb.md",
     "Elektronik Noter/Elmek matematik/Simplifiser e opløftet i x.md",
     "Elektronik Noter/Elmek matematik/Finde polen af rationel funktion.md",
     "Elektronik Noter/Elmek matematik/Opgave A3 og A4.md",
     "Elektronik Noter/E1IDE/power dissipation opgaver.md",
-    "Elektronik Noter/OPRG/begraber.md",
-    "Elektronik Noter/OPRG/0x00 spørgsmål.md",
     "Elektronik Noter/E1IDE/Opgavereging 1___.md",
     "Elektronik Noter/Elmek matematik/Simplefy e opløftet i x.md",
     "Excalidraw/Drawing 2026-08-27 12.50.11.excalidraw.md",
@@ -295,7 +296,6 @@
     "Elektronik Noter/OPRG",
     "Elektronik NOter/Sw1msys microcontroller systems/Lab01.md",
     "Elektronik NOter/Sw1msys microcontroller systems/Convertere fra decimal til binær og HEX.md",
-    "Elektronik NOter/Elmek fysik/intruduktion til kredsløb.md",
-    "Elektronik NOter/OPRG/0x00.md"
+    "Elektronik NOter/Elmek fysik/intruduktion til kredsløb.md"
   ]
 }
