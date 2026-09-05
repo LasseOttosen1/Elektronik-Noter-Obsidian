@@ -17,7 +17,7 @@ if, else, string, cin, cout, &&, || .
 
 ![[Pasted image 20260905105802.png]]det her programm skriver du to værdier endten 0 eller 1, hvis du skriver det samme siger programmet true eller false, om de er ens eller ej.
 
-```cc
+```cpp fold
 #include <iostream>
 using namespace std;
 
@@ -44,3 +44,6 @@ int main() {
 }
 
 ```
+
+"||": betyder or, hvis vi brugte ekseplet fra før ville programmet altid sige true, fordi den ene af værdierne a eller b ville være posativ. 
+
