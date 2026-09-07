@@ -33,7 +33,7 @@ fasnen er 0, fordi der er ikke nogle tidsforskydning,
 
 $$f(x)= 2cos(x) = 2sin(x+\pi/2)$$
 ![[Pasted image 20260907191226.png]]
-faseforskydningen er -pi/4aflæst
+faseforskydningen er -pi/4 aflæst
 
 fasen er hermed 
 $- \left(\frac{2}{3}\right) \cdot \left(-\frac{\pi}{4}\right) =\pi/6$ 
