@@ -39,5 +39,5 @@ fasen er hermed
 ![[Pasted image 20260907191327.png]]
 $- \left(\frac{2}{3}\right) \cdot \left(\frac{\pi}{2}\right) ≈ -1.05$
 
-her er formlen
-$$1.5*sin((1/\pi)*x-1.05) = 1.5*cos((1/\pi)*x-1.05-(1$$
+her er formlen:
+$$1.5*sin((2/3)*x-1.05) = 1.5*cos((2/3)*x-1.05-(\pi/2))$$
