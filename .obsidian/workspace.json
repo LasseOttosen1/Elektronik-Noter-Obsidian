@@ -11,14 +11,12 @@
             "id": "ccda5ec21a8381da",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Elektronik Noter/Elmek matematik/Harmoniske funktioner noter.md",
-                "mode": "source",
-                "source": false
+                "file": "Excalidraw/Drawing 2026-09-07 10.27.44.excalidraw.md"
               },
-              "icon": "lucide-file",
-              "title": "Harmoniske funktioner noter"
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2026-09-07 10.27.44.excalidraw"
             }
           }
         ]
@@ -225,30 +223,32 @@
   },
   "active": "ccda5ec21a8381da",
   "lastOpenFiles": [
+    "Pasted Image 20260907102800_029.png",
+    "Elektronik Noter/Elmek matematik/opgave regning 07,09,26.md",
+    "Elektronik Noter/Elmek matematik/Finde polen af rationel funktion.md",
+    "Elektronik Noter/Elmek matematik/Harmoniske funktioner noter.md",
+    "Elektronik Noter/Elmek matematik/Simplifiser e opløftet i x.md",
+    "Excalidraw/Drawing 2026-09-07 10.27.44.excalidraw.md",
+    "Pasted Image 20260907102746_408.png",
+    "Pasted image 20260907102335.png",
     "Pasted image 20260907093307.png",
     "Billeder/Pasted image 20260907091418.png",
     "Billeder/Pasted image 20260907085120.png",
     "Elektronik Noter/Elmek matematik/Opgave A3 og A4.md",
-    "Elektronik Noter/Elmek matematik/Simplifiser e opløftet i x.md",
     "Elektronik Noter/Elmek matematik/Vigtige formler.md",
     "Elektronik Noter/Elmek fysik/opgavelavning 2.md",
     "billeder igen",
     "Pasted image 20260905105645.png",
     "Billeder/Pasted image 20260903135926.png",
     "Billeder/Pasted image 20260905105645.png",
-    "Elektronik Noter/Elmek matematik/Harmoniske funktioner noter.md",
     "Billeder/Pasted image 20260905105802.png",
     "Billeder/Pasted image 20260906222525.png",
     "Elektronik Noter/OPRG/0x01 begraber.md",
     "Elektronik Noter/OPRG/begraber.md",
     "Elektronik Noter/OPRG/0x00 spørgsmål.md",
-    "Pasted image 20260905105802.png",
     "Elektronik Noter/OPRG/0x00.md",
-    "Billeder/Pasted image 20260903142247.png",
-    "Billeder/Pasted image 20260903141920.png",
     "Elektronik Noter/Vigtige formler.md",
     "Elektronik Noter/Elmek fysik/intruduktion til kredsløb.md",
-    "Elektronik Noter/Elmek matematik/Finde polen af rationel funktion.md",
     "Elektronik Noter/E1IDE/power dissipation opgaver.md",
     "Elektronik Noter/E1IDE/Opgavereging 1___.md",
     "Elektronik Noter/Elmek matematik/Simplefy e opløftet i x.md",
@@ -268,8 +268,6 @@
     "Elektronik/Sw1msys microcontroller systems/Lab01.md",
     "Elektronik Noter/Sw1msys microcontroller systems",
     "Elektronik Noter/E1IDE",
-    "Elektronik Noter/Elmek fysik",
-    "Elektronik NOter/Sw1msys microcontroller systems/Lab01.md",
-    "Elektronik NOter/Sw1msys microcontroller systems/Convertere fra decimal til binær og HEX.md"
+    "Elektronik Noter/Elmek fysik"
   ]
 }
