@@ -31,4 +31,13 @@ $\frac{2 \cdot \pi}{3 \cdot \pi} = 2/3$
 tidsforskydningen er 0
 fasnen er 0, fordi der er ikke nogle tidsforskydning,
 
-$$f(x)= 2cos(x) omskrives til 2sin(x+(\pi/2)$$
+$$f(x)= 2cos(x) = 2sin(x+\pi/2)$$
+![[Pasted image 20260907191226.png]]
+faseforskydningen er 1.571 aflæst
+
+fasen er hermed 
+![[Pasted image 20260907191327.png]]
+$- \left(\frac{2}{3}\right) \cdot \left(\frac{\pi}{2}\right) ≈ -1.05$
+
+her er formlen
+$$1.5*sin((1/\pi)*x-1.05) = 1.5*cos((1/\pi)*x-1.05-(1$$
