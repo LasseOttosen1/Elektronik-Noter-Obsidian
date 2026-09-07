@@ -11,12 +11,14 @@
             "id": "ccda5ec21a8381da",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2026-09-07 10.27.44.excalidraw.md"
+                "file": "Elektronik Noter/Elmek matematik/opgave regning 07,09,26.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2026-09-07 10.27.44.excalidraw"
+              "icon": "lucide-file",
+              "title": "opgave regning 07,09,26"
             }
           }
         ]
@@ -223,14 +225,14 @@
   },
   "active": "ccda5ec21a8381da",
   "lastOpenFiles": [
-    "Pasted Image 20260907102800_029.png",
-    "Elektronik Noter/Elmek matematik/opgave regning 07,09,26.md",
-    "Elektronik Noter/Elmek matematik/Finde polen af rationel funktion.md",
-    "Elektronik Noter/Elmek matematik/Harmoniske funktioner noter.md",
     "Elektronik Noter/Elmek matematik/Simplifiser e opløftet i x.md",
     "Excalidraw/Drawing 2026-09-07 10.27.44.excalidraw.md",
-    "Pasted Image 20260907102746_408.png",
     "Pasted image 20260907102335.png",
+    "Elektronik Noter/Elmek matematik/opgave regning 07,09,26.md",
+    "Pasted Image 20260907102800_029.png",
+    "Elektronik Noter/Elmek matematik/Finde polen af rationel funktion.md",
+    "Elektronik Noter/Elmek matematik/Harmoniske funktioner noter.md",
+    "Pasted Image 20260907102746_408.png",
     "Pasted image 20260907093307.png",
     "Billeder/Pasted image 20260907091418.png",
     "Billeder/Pasted image 20260907085120.png",
@@ -242,7 +244,6 @@
     "Billeder/Pasted image 20260903135926.png",
     "Billeder/Pasted image 20260905105645.png",
     "Billeder/Pasted image 20260905105802.png",
-    "Billeder/Pasted image 20260906222525.png",
     "Elektronik Noter/OPRG/0x01 begraber.md",
     "Elektronik Noter/OPRG/begraber.md",
     "Elektronik Noter/OPRG/0x00 spørgsmål.md",
