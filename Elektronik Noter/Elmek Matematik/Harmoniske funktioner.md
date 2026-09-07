@@ -25,7 +25,10 @@ $\frac{2 \cdot \pi}{3 \cdot \pi} = 2/3$
  frekvens
  $\frac{1}{3 \cdot \pi}$ = 0.10610
 
-![[Pasted image 20260907190000.png]]
-aplituden : 6
+![[Pasted image 20260907190139.png]]
 
-perioden
+![[Pasted image 20260907190442.png]]
+tidsforskydningen er 0
+fasnen er 0, fordi der er ikke nogle tidsforskydning,
+
+$$f(x)= 2cos(x) omskrives til 2sin(x+(\pi/2)$$
