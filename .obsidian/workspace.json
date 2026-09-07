@@ -11,12 +11,14 @@
             "id": "ccda5ec21a8381da",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Elektronik Noter/Elmek matematik/Matematik regning 07.09.26.md"
+                "file": "Elektronik Noter/Elmek matematik/Harmoniske funktioner.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Matematik regning 07.09.26"
+              "icon": "lucide-file",
+              "title": "Harmoniske funktioner"
             }
           }
         ]
@@ -223,19 +225,20 @@
   },
   "active": "ccda5ec21a8381da",
   "lastOpenFiles": [
+    "Pasted image 20260907184636.png",
+    "Pasted image 20260907184633.png",
+    "Pasted image 20260907184610.png",
+    "Pasted image 20260907184557.png",
+    "Elektronik Noter/Elmek matematik/Matematik regning 07.09.26.md",
+    "Elektronik Noter/Elmek matematik/Harmoniske funktioner.md",
+    "Pasted Image 20260907184354_788.png",
+    "Pasted Image 20260907184328_993.png",
     "Pasted Image 20260907183407_945.png",
     "Pasted Image 20260907183355_088.png",
     "Elektronik Noter/Elmek matematik/Simplifiser e opløftet i x.md",
-    "Elektronik Noter/Elmek matematik/Matematik regning 07.09.26.md",
     "Billeder/Pasted Image 20260907182411_409.png",
     "Billeder/Pasted Image 20260907182149_307.png",
     "Billeder/Pasted Image 20260907182135_020.png",
-    "Billeder/Pasted Image 20260907181842_326.png",
-    "Pasted Image 20260907182149_307.png",
-    "Pasted Image 20260907182135_020.png",
-    "Pasted Image 20260907181842_326.png",
-    "Billeder/Pasted image 20260907093307.png",
-    "Billeder/Pasted image 20260906224503.png",
     "Elektronik Noter/OPRG/0x00.md",
     "Elektronik Noter/Elmek matematik/opgave regning 07,09,26.md",
     "Elektronik Noter/Elmek matematik/Finde polen af rationel funktion.md",
@@ -265,7 +268,6 @@
     "Elektronik Noter/Sw1msys microcontroller systems/Convertere fra decimal til binær og HEX.md",
     "Elektronik Noter/test/hallo mand det er en test.md",
     "Elektronik Noter/test",
-    "Elektronik/Sw1msys microcontroller systems/Lab01.md",
     "Elektronik Noter/Sw1msys microcontroller systems",
     "Elektronik Noter/E1IDE",
     "Elektronik Noter/Elmek fysik"
