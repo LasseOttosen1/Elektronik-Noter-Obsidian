@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Elektronik Noter/Elmek matematik/Harmoniske funktioner.md",
+                "file": "Elektronik Noter/Sw1msys microcontroller systems/LAB 3.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Harmoniske funktioner"
+              "title": "LAB 3"
             }
           }
         ]
@@ -203,7 +203,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -225,8 +225,12 @@
   },
   "active": "ccda5ec21a8381da",
   "lastOpenFiles": [
-    "Billeder/Pasted Image 20260907183355_088.png",
+    "Pasted image 20260908110227.png",
+    "Pasted image 20260908105737.png",
     "Elektronik Noter/Elmek matematik/Harmoniske funktioner.md",
+    "Elektronik Noter/Sw1msys microcontroller systems/LAB 3.md",
+    "Elektronik Noter/Sw1msys microcontroller systems/Unavngivet",
+    "Billeder/Pasted Image 20260907183355_088.png",
     "Billeder/Pasted image 20260907191327.png",
     "Elektronik Noter/Elmek matematik/Matematik regning 07.09.26.md",
     "Billeder/Pasted image 20260907191226.png",
@@ -241,8 +245,6 @@
     "Billeder/Pasted image 20260907185600.png",
     "Billeder/Pasted image 20260907185516.png",
     "Billeder/Pasted image 20260907185507.png",
-    "Billeder/Pasted image 20260907185400.png",
-    "Billeder/Pasted image 20260907184636.png",
     "Elektronik Noter/OPRG/0x00.md",
     "Elektronik Noter/Elmek matematik/opgave regning 07,09,26.md",
     "Elektronik Noter/Elmek fysik/opgavelavning 2.md",
@@ -266,10 +268,8 @@
     "Elektronik Noter/Elmek matematik",
     "Elektronik Noter/Sw1msys microcontroller systems/Lab01.md",
     "Elektronik Noter/Sw1msys microcontroller systems/Convertere fra decimal til binær og HEX.md",
-    "Elektronik Noter/test/hallo mand det er en test.md",
     "Elektronik Noter/test",
     "Elektronik Noter/Sw1msys microcontroller systems",
-    "Elektronik Noter/E1IDE",
-    "Elektronik Noter/Elmek fysik"
+    "Elektronik Noter/E1IDE"
   ]
 }
