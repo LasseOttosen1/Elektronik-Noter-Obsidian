@@ -25,4 +25,4 @@ gennemsnittet er:
 ![[Pasted image 20260910160839.png]]
 det betyder altså at vi har nu en værdi for B, som vi kan bruge til at finde Ic når vi kender Ib.
 
-En transistor er altså meget smart fordi 
+En transistor er altså meget smart fordi den kan med en lille strøm styre en stor strømverdi i collectoren.
