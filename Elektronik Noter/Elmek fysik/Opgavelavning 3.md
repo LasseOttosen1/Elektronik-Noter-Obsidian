@@ -41,8 +41,18 @@ opgave 1.9
 ![[Pasted image 20260910164933.png|442]]
 $P=V*I$
 a)
-$2 \cdot 3$ =6W optaget effekt fordi det er posativt
+$-2A \cdot 3V$ =-6W afgivet effekt fordi det er posativt, A er negativ fordi den løber ud af den posative pol
 b)
-$- 1 \cdot 4$ = -4W afgivet effekt fordi det er negativt
+$- 1A \cdot 4V$ = -4W afgivet effekt fordi den er negativ, og a løber ind, af negativ og ud af posativ
 c)
-$3 \cdot 2$ 
+$3A \cdot 2V$ = W6 optaget effekt, fordi a løber ind i posativ pol
+d)
+Man kan vende dem om, altså hvis vi laver at -2A bliver til 2A så løber den den anden vej, og det samme med spændingskilden. hvis vi vender det bliver det til:
+![[Pasted image 20260910165906.png|398]]
+
+Og her løber strømmen ind af plus så det bliver
+$2*2$ = 4 W altså **optaget** 
+
+man kan også bare her gøre at 
+$-2*-2=4$
+men jeg er ikke sikker på at det altid er rigtigt, hvis strømmen havde løvet den anden vej, så tror jeg det var afgivet effekt
