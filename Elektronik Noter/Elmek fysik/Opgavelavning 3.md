@@ -24,10 +24,25 @@ $3V \cdot 3A = 9W$ optages fordi der løber A ind i minus polen
 
 ![[Pasted image 20260910164132.png]]
 a)
-strømmen gennerer
+strømmen absorbere
+løber ind i posative pol
 B)
-strømmen absorbere
+strømmen afgiver
+løber ud af posative opl
 C)
-Strømmen generere
+Strømmen optager
+
 d)
-strømmen absorbere
+strømmen afgiver 
+løber ud af posative pol 
+svar:
+![[Pasted image 20260910164805.png|364]]
+opgave 1.9
+![[Pasted image 20260910164933.png|442]]
+$P=V*I$
+a)
+$2 \cdot 3$ =6W optaget effekt fordi det er posativt
+b)
+$- 1 \cdot 4$ = -4W afgivet effekt fordi det er negativt
+c)
+$3 \cdot 2$ 
