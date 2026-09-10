@@ -207,7 +207,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 273.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -225,8 +225,10 @@
   },
   "active": "ccda5ec21a8381da",
   "lastOpenFiles": [
-    "Elektronik Noter/Elmek fysik/opgavelavning 2.md",
+    "Elektronik Noter/Elmek fysik/intruduktion til kredsløb.md",
     "Elektronik Noter/Elmek fysik/Opgavelavning 3.md",
+    "Pasted image 20260910163000.png",
+    "Elektronik Noter/Elmek fysik/opgavelavning 2.md",
     "Billeder/Pasted image 20260910161804.png",
     "Billeder/Pasted image 20260910162059.png",
     "Elektronik Noter/Vigtige formler.md",
@@ -238,9 +240,7 @@
     "Billeder/Pasted image 20260910160100.png",
     "Billeder/Pasted image 20260910155942.png",
     "Billeder/Pasted image 20260910155640.png",
-    "Billeder/Pasted image 20260910155419.png",
     "Elektronik Noter/OPRG/begraber.md",
-    "Elektronik Noter/Elmek fysik/intruduktion til kredsløb.md",
     "Elektronik Noter/OPRG/0x01 begraber.md",
     "Elektronik Noter/OPRG/0x00 spørgsmål.md",
     "Elektronik Noter/E1IDE/Opgavereging 1___.md",
