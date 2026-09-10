@@ -17,4 +17,12 @@ den målte strøm i amperemetret.
 vi laver også en graf:
 ![[Pasted image 20260910160100.png|389]]
 vi har altså nu både Ic og Ib, og vi kan udregne B.
-vi tager føst lige gennemsnittet af vores værdier fra cirka 1,5v til 3,5v. Der er ikke nok 
+vi tager føst lige gennemsnittet af vores værdier fra cirka 1,25v til 3,5v. Der er ikke nok strøm i systemet, så til sidst stopper transistoren med at styre strømmen. fordi strømmen i Ic stopper med at ændre sig.
+![[Pasted image 20260910160531.png]], fordi den er 1000 gange mindre end Ic, siden Ib er i micro A og Ic er i mili A.
+nu finder vi et gennemsnit for B 
+![[Pasted image 20260910160829.png]]
+gennemsnittet er: 
+![[Pasted image 20260910160839.png]]
+det betyder altså at vi har nu en værdi for B, som vi kan bruge til at finde Ic når vi kender Ib.
+
+En transistor er altså meget smart fordi 
