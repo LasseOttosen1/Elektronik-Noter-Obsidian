@@ -56,3 +56,5 @@ $2*2$ = 4 W altså **optaget**
 man kan også bare her gøre at 
 $-2*-2=4$
 men jeg er ikke sikker på at det altid er rigtigt, hvis strømmen havde løvet den anden vej, så tror jeg det var afgivet effekt
+![[Pasted image 20260910170423.png|372]]
+deepseek siger at den afgiver med det gør svararket ikke såååååå.... 
