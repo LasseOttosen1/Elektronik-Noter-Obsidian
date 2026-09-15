@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Elektronik Noter/Sw1msys microcontroller systems/Assembly kommandorer.md",
+                "file": "Elektronik Noter/Sw1msys microcontroller systems/LAB 4.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Assembly kommandorer"
+              "title": "LAB 4"
             }
           }
         ]
@@ -225,9 +225,12 @@
   },
   "active": "ccda5ec21a8381da",
   "lastOpenFiles": [
+    "Billeder/Pasted image 20260915110925.png",
+    "Elektronik Noter/Sw1msys microcontroller systems/LAB 4.md",
+    "Billeder/Pasted image 20260915110933.png",
+    "Elektronik Noter/Sw1msys microcontroller systems/Assembly kommandorer.md",
     "Elektronik Noter/Sw1msys microcontroller systems/Digitale porte.md",
     "Elektronik Noter/Sw1msys microcontroller systems/Convertere fra decimal til binær og HEX.md",
-    "Elektronik Noter/Sw1msys microcontroller systems/Assembly kommandorer.md",
     "Billeder/E1LMEK introduktionsøvelse 20250122 ver 1.4.4 1.pdf",
     "Billeder/E1LMEK introduktionsøvelse 20250122 ver 1.4.4.pdf",
     "Billeder/AVR_v1_AppendixA.pdf",
@@ -241,8 +244,6 @@
     "Billeder/Pasted image 20260910164933.png",
     "Billeder/Pasted image 20260910164923.png",
     "Billeder/Pasted image 20260910164918.png",
-    "Billeder/Pasted image 20260910164805.png",
-    "Billeder/Pasted image 20260910164132.png",
     "Elektronik Noter/Elmek fysik/intruduktion til kredsløb.md",
     "Elektronik Noter/Elmek fysik/opgavelavning 2.md",
     "Elektronik Noter/Vigtige formler.md",
@@ -264,8 +265,6 @@
     "billeder igen",
     "Elektronik Noter/E1IDE/power dissipation opgaver.md",
     "Elektronik Noter/Elmek matematik/Simplefy e opløftet i x.md",
-    "Excalidraw/Drawing 2026-08-27 12.50.11.excalidraw.md",
-    "conflict-files-obsidian-git.md",
     "Excalidraw/Libraries/desktop.ini",
     "Excalidraw/Libraries/local-library.excalidrawlib",
     "Excalidraw/Libraries",
