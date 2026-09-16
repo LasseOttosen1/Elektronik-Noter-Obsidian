@@ -56,3 +56,13 @@ X er altså 1 når endten AC eller B er 1
 ![[Pasted image 20260916124827.png]]
 ![[Pasted image 20260916124919.png]]
 a)
+	A+AB+AB'C
+	regl 10
+	A+AB'C
+	regl 10 igen (A+A*X)
+	A
+b)
+(A'+B)C+ABC
+A'C+B'C+ABC
+
+
