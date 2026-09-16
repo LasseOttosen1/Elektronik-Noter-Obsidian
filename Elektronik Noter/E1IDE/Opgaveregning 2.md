@@ -62,7 +62,15 @@ a)
 	regl 10 igen (A+A*X)
 	A
 b)
-(A'+B)C+ABC
-A'C+B'C+ABC
-
-
+	(A'+B)C+ABC
+	ophæver
+	A'C+BC+ABC
+	sætter C udenfor
+	(A'+B+AB)C
+	(A'+B)C
+	A'C+BC
+c)
+	AB'C(BD+CDE)+AC'
+	opæver
+	AB'CBD+AB'CCDE+AC'
+	regl 8 0=B*B
