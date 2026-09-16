@@ -73,4 +73,9 @@ c)
 	AB'C(BD+CDE)+AC'
 	opæver
 	AB'CBD+AB'CCDE+AC'
-	regl 8 0=B*B
+	regl 8 BB'=0
+	AB'CCDE+AC'
+	Regl 7
+	 AB'CDE+AC'
+![[Pasted image 20260916131726.png]]
+![[Pasted image 20260916131758.png]]
