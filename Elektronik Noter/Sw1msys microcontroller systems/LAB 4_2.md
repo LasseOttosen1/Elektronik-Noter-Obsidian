@@ -9,8 +9,8 @@ Nu har vi main funktionen. Her sætter jeg en masse værdier for R21, ud efter h
 
 Herefter Sender jeg et posativt ud på diode 0, og herefter kopier jeg R21 over i R18, det ændre mit delay.
 Herefter caller jeg delayed, og så sender jeg et 0 ud på diode 0, altså slukker den.
-så sætter jeg R18 til 128, af en eller anden grund stod i opgave. og så kalder jeg delayet igen, og så starter here igen.
+så sætter jeg R18 til 128, fordi den indikere hvor længe dioden er slukket, det vil sige hvis den er mere slukket end tænt er der mindre lys. og så kalder jeg delayet igen, og så starter here igen.
 
-Jeg tror det virker sådan at når delayed bliver meget småt, så er den næsten lige så tænt som den er slukket , og så lyser led ikke så meget, når deleyet bliver længere
+Jeg tror det virker sådan at når delayed bliver meget småt, så er den næsten lige så tænt som den er slukket , og så lyser led ikke så meget, når deleyet bliver længere, så kommer der mere lys igennem.
 ![[Pasted image 20260915115304.png]]
 ![[Pasted image 20260915115712.png]]
