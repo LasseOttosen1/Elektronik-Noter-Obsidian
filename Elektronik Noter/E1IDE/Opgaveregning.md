@@ -5,4 +5,15 @@ a)
 b)
 1101111
 c)
-100011011001
+1000110011001
+man sammenligner den fra før om det er det samme
+![[Pasted image 20260916123131.png]]
+a)
+1100
+b)
+00011
+c)
+10000011110
+Jeg kigger på det tal jeg lige har skrevet, og så kigger man på den næste bit i gray coden
+![[Pasted image 20260916123720.png]]
+48
