@@ -32,3 +32,10 @@ d)
 	nu kan jeg finde effekten
 $6v*1v=6W$
 så effekten er posativ så den optager energi.
+
+e)
+der løber 3 A ind i minus polen. Det er en negativ V værdi så regnestykket ser således ud
+$3A*3V = -9W$ så den afgiver effekt
+
+![[Pasted image 20260917143607.png]]
+

@@ -11,14 +11,12 @@
             "id": "ccda5ec21a8381da",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Elektronik Noter/Elmek fysik/OPgaveregning 4.md",
-                "mode": "source",
-                "source": false
+                "file": "Excalidraw/Drawing 2026-09-17 14.38.20.excalidraw.md"
               },
-              "icon": "lucide-file",
-              "title": "OPgaveregning 4"
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2026-09-17 14.38.20.excalidraw"
             }
           }
         ]
@@ -99,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Elektronik Noter/Elmek fysik/OPgaveregning 4.md",
+                "file": "Excalidraw/Drawing 2026-09-17 14.38.20.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -225,11 +223,14 @@
   },
   "active": "ccda5ec21a8381da",
   "lastOpenFiles": [
+    "Pasted Image 20260917143821_811.png",
+    "Elektronik Noter/Elmek fysik/OPgaveregning 4.md",
+    "Excalidraw/Drawing 2026-09-17 14.38.20.excalidraw.md",
+    "Pasted image 20260917143607.png",
     "Elektronik Noter/Elmek fysik/Strømstyret strømkilde.md",
     "Elektronik Noter/Vigtige formler.md",
     "Elektronik Noter/Elmek matematik/Simplifiser e opløftet i x.md",
     "Elektronik Noter/Elmek matematik/Vigtige formler.md",
-    "Elektronik Noter/Elmek fysik/OPgaveregning 4.md",
     "Pasted image 20260917140529.png",
     "Elektronik Noter/Elmek matematik/Matematik regning 07.09.26.md",
     "Elektronik Noter/Elmek matematik/Opgave A3 og A4.md",
@@ -251,7 +252,6 @@
     "Billeder/Pasted Image 20260916134540_177.png",
     "Billeder/Pasted Image 20260916131851_433.png",
     "Excalidraw/Unavngivet.md",
-    "Billeder/Pasted image 20260916131811.png",
     "Elektronik Noter/E1IDE/Opgaveregning 2.md",
     "Elektronik Noter/Sw1msys microcontroller systems/LAB 4_2.md",
     "Elektronik Noter/Sw1msys microcontroller systems/LAB 4_1.md",
@@ -262,7 +262,6 @@
     "Elektronik Noter/Sw1msys microcontroller systems/LAB 3.md",
     "Elektronik Noter/Elmek fysik/Opgavelavning 3.md",
     "Elektronik Noter/Elmek fysik/intruduktion til kredsløb.md",
-    "Elektronik Noter/Elmek fysik/opgavelavning 2.md",
     "Elektronik Noter/Sw1msys microcontroller systems/Unavngivet",
     "billeder igen",
     "Excalidraw/Libraries/desktop.ini",
