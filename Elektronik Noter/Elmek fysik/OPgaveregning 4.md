@@ -1,4 +1,4 @@
-![[Pasted image 20260917140529.png]]
+![[Pasted image 20260917140529.png|509]]
 
 a)
 jeg bruger KVL
@@ -37,10 +37,11 @@ e)
 der løber 3 A ind i minus polen. Det er en negativ V værdi så regnestykket ser således ud
 $3A*3V = -9W$ så den afgiver effekt
 
-![[Pasted image 20260917143607.png]]
+![[Pasted image 20260917143607.png|457]]
 
-![[Pasted image 20260917144855.png]]
-![[Pasted image 20260917160833.png]]
+![[Pasted image 20260917144855.png|527]]
+![[Pasted image 20260917160833.png|493]]
 ![[Pasted image 20260917160902.png]]
 ![[Pasted image 20260917160936.png]]
 ![[Pasted image 20260917160959.png]]
+![[Pasted image 20260917161021.png]]
