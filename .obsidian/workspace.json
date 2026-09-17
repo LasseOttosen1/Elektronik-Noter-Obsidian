@@ -11,12 +11,14 @@
             "id": "ccda5ec21a8381da",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2026-09-17 14.38.20.excalidraw.md"
+                "file": "Elektronik Noter/Elmek fysik/OPgaveregning 4.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2026-09-17 14.38.20.excalidraw"
+              "icon": "lucide-file",
+              "title": "OPgaveregning 4"
             }
           }
         ]
@@ -97,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2026-09-17 14.38.20.excalidraw.md",
+                "file": "Elektronik Noter/Elmek fysik/OPgaveregning 4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -223,28 +225,27 @@
   },
   "active": "ccda5ec21a8381da",
   "lastOpenFiles": [
+    "Elektronik Noter/Elmek fysik/Strømstyret strømkilde.md",
+    "Excalidraw/Drawing 2026-09-17 14.38.20.excalidraw.md",
+    "Elektronik Noter/Elmek fysik/OPgaveregning 4.md",
+    "Pasted image 20260917160959.png",
+    "Pasted image 20260917160936.png",
+    "Pasted image 20260917160902.png",
+    "Pasted image 20260917160833.png",
+    "Elektronik Noter/Elmek matematik/Vigtige formler.md",
+    "Elektronik Noter/Vigtige formler.md",
     "Pasted Image 20260917155722_404.png",
     "Excalidraw/Elmek Øvelse 1.md",
     "Excalidraw/Unavngivet.md",
-    "Elektronik Noter/Elmek fysik/OPgaveregning 4.md",
-    "Excalidraw/Drawing 2026-09-17 14.38.20.excalidraw.md",
-    "Elektronik Noter/Vigtige formler.md",
     "Pasted Image 20260917154226_248.png",
     "Pasted Image 20260917154033_245.png",
     "Pasted Image 20260917152604_561.png",
     "Elektronik Noter/Elmek fysik/opgavelavning 2.md",
     "Pasted Image 20260917145814_538.png",
     "Pasted Image 20260917144914_192.png",
-    "Pasted image 20260917144855.png",
     "Elektronik Noter/Elmek matematik/Harmoniske funktioner noter.md",
     "Elektronik Noter/Elmek matematik/Matematik regning 07.09.26.md",
-    "Pasted Image 20260917144117_398.png",
-    "Pasted Image 20260917143821_811.png",
-    "Pasted image 20260917143607.png",
-    "Elektronik Noter/Elmek fysik/Strømstyret strømkilde.md",
     "Elektronik Noter/Elmek matematik/Simplifiser e opløftet i x.md",
-    "Elektronik Noter/Elmek matematik/Vigtige formler.md",
-    "Pasted image 20260917140529.png",
     "Elektronik Noter/Elmek matematik/Opgave A3 og A4.md",
     "Elektronik Noter/Elmek matematik/Harmoniske funktioner.md",
     "Elektronik Noter/Elmek matematik/Finde polen af rationel funktion.md",
