@@ -22,4 +22,13 @@ c)
 	Fordi der går 3 ind og 2 ud, må der gå 1 opaf. det vil sige til punktet i toppen, går der 1 ind fra bunden, 2 ind fra venstre, og 3 ud fra højre, det kan vi også se.
 
 d)
-	
+	jeg starter med at give Is en spændingspol, som jeg vælger, og jeg kalder punktet i bunden for a, og punktet over strømforsyningen for b.
+	Nu går jeg fra a og rundt til a igen
+	jeg siger at strømkildens minuspol er hvor pilens bund er
+	-v?-12v+6=0
+	-v?=12-6=-(-v6)
+	6v
+	så der er en spændingsforskel på 6v over strømkilden. 
+	nu kan jeg finde effekten
+$6v*1v=6W$
+så effekten er posativ så den optager energi.
