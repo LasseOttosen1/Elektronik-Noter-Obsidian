@@ -39,3 +39,4 @@ $3A*3V = -9W$ så den afgiver effekt
 
 ![[Pasted image 20260917143607.png]]
 
+![[Pasted image 20260917144855.png]]
