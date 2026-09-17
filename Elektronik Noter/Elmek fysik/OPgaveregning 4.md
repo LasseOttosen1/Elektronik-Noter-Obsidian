@@ -30,7 +30,7 @@ d)
 	6v
 	så der er en spændingsforskel på 6v over strømkilden. 
 	nu kan jeg finde effekten
-$6v*1v=6W$
+$6v*1A=6W$
 så effekten er posativ så den optager energi.
 
 e)
