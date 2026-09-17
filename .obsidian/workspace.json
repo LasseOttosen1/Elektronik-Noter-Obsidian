@@ -13,10 +13,10 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/Elmek Øvelse 1.md"
+                "file": "Elektronik Noter/Elmek matematik/Matematik regning 07.09.26.md"
               },
               "icon": "excalidraw-icon",
-              "title": "Elmek Øvelse 1"
+              "title": "Matematik regning 07.09.26"
             }
           }
         ]
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Elmek Øvelse 1.md",
+                "file": "Elektronik Noter/Elmek matematik/Matematik regning 07.09.26.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -221,13 +221,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2ed83c1c7b5038d5",
+  "active": "ccda5ec21a8381da",
   "lastOpenFiles": [
-    "Elektronik Noter/Elmek matematik/Opgave A3 og A4.md",
+    "Elektronik Noter/Elmek matematik/Vigtige formler.md",
     "Elektronik Noter/Elmek matematik/Simplifiser e opløftet i x.md",
+    "Elektronik Noter/Elmek matematik/Opgave A3 og A4.md",
+    "Elektronik Noter/Elmek matematik/Matematik regning 07.09.26.md",
+    "Elektronik Noter/Elmek matematik/Harmoniske funktioner noter.md",
+    "Elektronik Noter/Elmek matematik/Harmoniske funktioner.md",
+    "Elektronik Noter/Elmek matematik/Finde polen af rationel funktion.md",
     "Excalidraw/Elmek Øvelse 1.md",
     "Pasted Image 20260917111251_599.png",
-    "Elektronik Noter/Elmek matematik/Harmoniske funktioner noter.md",
     "Elektronik Noter/E1IDE/Opgavereging 1___.md",
     "Elektronik Noter/E1IDE/DeMorgans opgaveregning 2_1.md",
     "Billeder/Pasted image 20260826122451.png",
@@ -258,9 +262,6 @@
     "Elektronik Noter/Elmek fysik/Strømstyret strømkilde.md",
     "Elektronik Noter/OPRG/begraber.md",
     "Elektronik Noter/OPRG/0x01 begraber.md",
-    "Elektronik Noter/OPRG/0x00 spørgsmål.md",
-    "Elektronik Noter/Elmek matematik/Harmoniske funktioner.md",
-    "Elektronik Noter/Elmek matematik/Vigtige formler.md",
     "Elektronik Noter/Sw1msys microcontroller systems/Unavngivet",
     "billeder igen",
     "Excalidraw/Libraries/desktop.ini",
