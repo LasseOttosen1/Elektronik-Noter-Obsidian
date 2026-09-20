@@ -205,7 +205,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 209.5
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -223,6 +224,7 @@
   },
   "active": "ccda5ec21a8381da",
   "lastOpenFiles": [
+    "Pasted Image 20260920155120_100.png",
     "Elektronik Noter/Elmek matematik/Opgave A3 og A4.md",
     "Elektronik Noter/Elmek fysik/OPgaveregning 4.md",
     "Billeder/Pasted Image 20260917111251_599.png",
