@@ -11,12 +11,14 @@
             "id": "ccda5ec21a8381da",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Elmek Øvelse 1.md"
+                "file": "Elektronik Noter/Elmek matematik/Komplekse tal opgaveregning.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Elmek Øvelse 1"
+              "icon": "lucide-file",
+              "title": "Komplekse tal opgaveregning"
             }
           }
         ]
@@ -221,9 +223,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e41e243b6ef65bb3",
+  "active": "ccda5ec21a8381da",
   "lastOpenFiles": [
+    "Pasted image 20260921101041.png",
+    "Pasted image 20260921101035.png",
+    "Excalidraw/Drawing 2026-09-21 10.06.17.excalidraw.md",
+    "Elektronik Noter/Elmek matematik/Komplekse tal opgaveregning.md",
+    "Pasted Image 20260921101003_863.png",
+    "Pasted Image 20260921100618_975.png",
     "Excalidraw/Elmek Øvelse 1.md",
+    "Excalidraw/Unavngivet 1.md",
     "Pasted Image 20260920155120_100.png",
     "Elektronik Noter/Elmek matematik/Opgave A3 og A4.md",
     "Elektronik Noter/Elmek fysik/OPgaveregning 4.md",
@@ -237,10 +246,7 @@
     "Billeder/Pasted image 20260917160833.png",
     "Elektronik Noter/Elmek matematik/Vigtige formler.md",
     "Elektronik Noter/Vigtige formler.md",
-    "Billeder/Pasted Image 20260917155722_404.png",
     "Excalidraw/Unavngivet.md",
-    "Billeder/Pasted Image 20260917154226_248.png",
-    "Billeder/Pasted Image 20260917154033_245.png",
     "Elektronik Noter/Elmek fysik/opgavelavning 2.md",
     "Elektronik Noter/Elmek matematik/Harmoniske funktioner noter.md",
     "Elektronik Noter/Elmek matematik/Matematik regning 07.09.26.md",
@@ -257,10 +263,7 @@
     "Elektronik Noter/Sw1msys microcontroller systems/LAB 4_1.md",
     "Elektronik Noter/Sw1msys microcontroller systems/Assembly kommandorer.md",
     "Elektronik Noter/Sw1msys microcontroller systems/Digitale porte.md",
-    "Elektronik Noter/Sw1msys microcontroller systems/Convertere fra decimal til binær og HEX.md",
     "Billeder/E1LMEK introduktionsøvelse 20250122 ver 1.4.4 1.pdf",
-    "Elektronik Noter/Sw1msys microcontroller systems/LAB 3.md",
-    "Elektronik Noter/Elmek fysik/Opgavelavning 3.md",
     "Elektronik Noter/Sw1msys microcontroller systems/Unavngivet",
     "billeder igen",
     "Excalidraw/Libraries/desktop.ini",
