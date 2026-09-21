@@ -11,12 +11,12 @@
             "id": "ccda5ec21a8381da",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "excalidraw",
               "state": {
-                "file": "Billeder/Pasted Image 20260920155120_100.png"
+                "file": "Excalidraw/Elmek Øvelse 1.md"
               },
-              "icon": "lucide-image",
-              "title": "Pasted Image 20260920155120_100"
+              "icon": "excalidraw-icon",
+              "title": "Elmek Øvelse 1"
             }
           }
         ]
@@ -223,6 +223,7 @@
   },
   "active": "ccda5ec21a8381da",
   "lastOpenFiles": [
+    "Billeder/Pasted Image 20260920155120_100.png",
     "Elektronik Noter/Elmek matematik/Komplekse tal opgaveregning (draw).md",
     "Billeder/Pasted Image 20260921113408_992.png",
     "Excalidraw/Elmek Øvelse 1.md",
