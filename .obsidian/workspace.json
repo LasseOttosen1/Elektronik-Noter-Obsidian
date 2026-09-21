@@ -205,8 +205,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -222,8 +221,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ccda5ec21a8381da",
+  "active": "e41e243b6ef65bb3",
   "lastOpenFiles": [
+    "Excalidraw/Elmek Øvelse 1.md",
     "Pasted Image 20260920155120_100.png",
     "Elektronik Noter/Elmek matematik/Opgave A3 og A4.md",
     "Elektronik Noter/Elmek fysik/OPgaveregning 4.md",
@@ -238,11 +238,9 @@
     "Elektronik Noter/Elmek matematik/Vigtige formler.md",
     "Elektronik Noter/Vigtige formler.md",
     "Billeder/Pasted Image 20260917155722_404.png",
-    "Excalidraw/Elmek Øvelse 1.md",
     "Excalidraw/Unavngivet.md",
     "Billeder/Pasted Image 20260917154226_248.png",
     "Billeder/Pasted Image 20260917154033_245.png",
-    "Billeder/Pasted Image 20260917152604_561.png",
     "Elektronik Noter/Elmek fysik/opgavelavning 2.md",
     "Elektronik Noter/Elmek matematik/Harmoniske funktioner noter.md",
     "Elektronik Noter/Elmek matematik/Matematik regning 07.09.26.md",
