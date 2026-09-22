@@ -11,12 +11,14 @@
             "id": "ccda5ec21a8381da",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Opgaveregning KCL KVL.md"
+                "file": "Excalidraw/Unavngivet.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Opgaveregning KCL KVL"
+              "icon": "lucide-file",
+              "title": "Unavngivet"
             }
           }
         ]
@@ -221,9 +223,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ccda5ec21a8381da",
+  "active": "2ed83c1c7b5038d5",
   "lastOpenFiles": [
     "Excalidraw/Elmek Øvelse 1.md",
+    "Billeder/Pasted Image 20260921132316_012.png",
+    "Elektronik Noter/Elmek fysik/Opgaveregning KCL KVL.md",
     "Elektronik Noter/Vigtige formler.md",
     "Elektronik Noter/Sw1msys microcontroller systems/Noter/Kompliment og representering af negative tal.md",
     "Elektronik Noter/Sw1msys microcontroller systems/Noter/Assembly kommandorer.md",
@@ -233,8 +237,7 @@
     "Elektronik Noter/Sw1msys microcontroller systems/Noter",
     "Elektronik Noter/Sw1msys microcontroller systems/Noter/Digitale porte.md",
     "Elektronik Noter/Sw1msys microcontroller systems/Noter/Convertere fra decimal til binær og HEX.md",
-    "Pasted Image 20260921132559_416.png",
-    "Pasted Image 20260921132316_012.png",
+    "Billeder/Pasted Image 20260921132559_416.png",
     "Billeder/Pasted Image 20260920155120_100.png",
     "Elektronik Noter/Elmek matematik/Komplekse tal opgaveregning (draw).md",
     "Billeder/Pasted Image 20260921113408_992.png",
@@ -249,7 +252,6 @@
     "Excalidraw/Unavngivet 1.md",
     "Elektronik Noter/Elmek matematik/Opgave A3 og A4.md",
     "Elektronik Noter/Elmek fysik/OPgaveregning 4.md",
-    "Excalidraw/Opgaveregning KCL KVL.md",
     "Elektronik Noter/Elmek fysik/Strømstyret strømkilde.md",
     "Elektronik Noter/Elmek matematik/Vigtige formler.md",
     "Excalidraw/Unavngivet.md",
@@ -263,7 +265,6 @@
     "Elektronik Noter/E1IDE/DeMorgans opgaveregning 2_1.md",
     "Billeder/AVR_v1_AppendixA.pdf",
     "Billeder/E1LMEK introduktionsøvelse 20250122 ver 1.4.4.pdf",
-    "Elektronik Noter/E1IDE/power dissipation opgaver.md",
     "Billeder/E1LMEK introduktionsøvelse 20250122 ver 1.4.4 1.pdf",
     "billeder igen",
     "Excalidraw/Libraries/desktop.ini",
