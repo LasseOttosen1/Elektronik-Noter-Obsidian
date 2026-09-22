@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Elektronik Noter/Sw1msys microcontroller systems/Lab/LAB 4_1.md",
+                "file": "Elektronik Noter/Sw1msys microcontroller systems/Lab/Lab 5_2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "LAB 4_1"
+              "title": "Lab 5_2"
             }
           }
         ]
@@ -223,9 +223,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ccda5ec21a8381da",
+  "active": "e41e243b6ef65bb3",
   "lastOpenFiles": [
+    "Pasted image 20260922125419.png",
+    "Elektronik Noter/OPRG/0x00.md",
+    "Elektronik Noter/Sw1msys microcontroller systems/Lab/Lab 5_2.md",
     "Elektronik Noter/Sw1msys microcontroller systems/Lab/Lab 5_1.md",
+    "Elektronik Noter/Sw1msys microcontroller systems/Lab/LAB 4_1.md",
     "Pasted image 20260922104902.png",
     "Pasted image 20260922104711.png",
     "Excalidraw/Elmek Øvelse 1.md",
@@ -260,9 +264,6 @@
     "Elektronik Noter/Elmek matematik/Harmoniske funktioner noter.md",
     "Elektronik Noter/Elmek matematik/Matematik regning 07.09.26.md",
     "Elektronik Noter/Elmek matematik/Simplifiser e opløftet i x.md",
-    "Elektronik Noter/Elmek matematik/Harmoniske funktioner.md",
-    "Elektronik Noter/Elmek matematik/Finde polen af rationel funktion.md",
-    "Elektronik Noter/E1IDE/Opgavereging 1___.md",
     "Billeder/AVR_v1_AppendixA.pdf",
     "Billeder/E1LMEK introduktionsøvelse 20250122 ver 1.4.4.pdf",
     "Billeder/E1LMEK introduktionsøvelse 20250122 ver 1.4.4 1.pdf",
