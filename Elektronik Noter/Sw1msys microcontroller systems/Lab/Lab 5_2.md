@@ -1,6 +1,6 @@
 
 Kode skrevet af  MIG MIG MIG; men med noter fra Deepseek fordi jeg gad ikke selv skrive dem, koden gennemgår de forskellige punkter som findes her, og det gør det hele og virker tak mange tak. 
-![[Pasted image 20260922125419.png|343]]
+![[Pasted image 20260922125419.png|380]]
 det hele ligger også under lab 5_2 i onedrive
 ```cpp fold
 ;=========================================================
