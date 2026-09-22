@@ -11,14 +11,12 @@
             "id": "ccda5ec21a8381da",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/Unavngivet.md",
-                "mode": "source",
-                "source": false
+                "file": "Excalidraw/Elmek Øvelse 1.md"
               },
-              "icon": "lucide-file",
-              "title": "Unavngivet"
+              "icon": "excalidraw-icon",
+              "title": "Elmek Øvelse 1"
             }
           }
         ]
@@ -223,8 +221,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2ed83c1c7b5038d5",
+  "active": "ccda5ec21a8381da",
   "lastOpenFiles": [
+    "Excalidraw/Unavngivet.md",
     "Excalidraw/Elmek Øvelse 1.md",
     "Billeder/Pasted Image 20260921132316_012.png",
     "Elektronik Noter/Elmek fysik/Opgaveregning KCL KVL.md",
@@ -254,7 +253,6 @@
     "Elektronik Noter/Elmek fysik/OPgaveregning 4.md",
     "Elektronik Noter/Elmek fysik/Strømstyret strømkilde.md",
     "Elektronik Noter/Elmek matematik/Vigtige formler.md",
-    "Excalidraw/Unavngivet.md",
     "Elektronik Noter/Elmek fysik/opgavelavning 2.md",
     "Elektronik Noter/Elmek matematik/Harmoniske funktioner noter.md",
     "Elektronik Noter/Elmek matematik/Matematik regning 07.09.26.md",
