@@ -11,12 +11,14 @@
             "id": "ccda5ec21a8381da",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Elmek Øvelse 1.md"
+                "file": "Elektronik Noter/Sw1msys microcontroller systems/Lab/Lab 5_1.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Elmek Øvelse 1"
+              "icon": "lucide-file",
+              "title": "Lab 5_1"
             }
           }
         ]
@@ -223,8 +225,10 @@
   },
   "active": "ccda5ec21a8381da",
   "lastOpenFiles": [
-    "Excalidraw/Unavngivet.md",
+    "Pasted image 20260922104711.png",
     "Excalidraw/Elmek Øvelse 1.md",
+    "Elektronik Noter/Sw1msys microcontroller systems/Lab/Lab 5_1.md",
+    "Excalidraw/Unavngivet.md",
     "Billeder/Pasted Image 20260921132316_012.png",
     "Elektronik Noter/Elmek fysik/Opgaveregning KCL KVL.md",
     "Elektronik Noter/Vigtige formler.md",
@@ -260,7 +264,6 @@
     "Elektronik Noter/Elmek matematik/Harmoniske funktioner.md",
     "Elektronik Noter/Elmek matematik/Finde polen af rationel funktion.md",
     "Elektronik Noter/E1IDE/Opgavereging 1___.md",
-    "Elektronik Noter/E1IDE/DeMorgans opgaveregning 2_1.md",
     "Billeder/AVR_v1_AppendixA.pdf",
     "Billeder/E1LMEK introduktionsøvelse 20250122 ver 1.4.4.pdf",
     "Billeder/E1LMEK introduktionsøvelse 20250122 ver 1.4.4 1.pdf",
