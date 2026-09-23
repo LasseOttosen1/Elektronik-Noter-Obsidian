@@ -205,7 +205,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 477.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -223,6 +224,8 @@
   },
   "active": "ccda5ec21a8381da",
   "lastOpenFiles": [
+    "Pasted Image 20260923143136_076.png",
+    "Pasted Image 20260923142716_551.png",
     "Pasted Image 20260923135636_024.png",
     "Pasted Image 20260923134456_200.png",
     "Pasted Image 20260923133011_366.png",
@@ -251,8 +254,6 @@
     "Elektronik Noter/Sw1msys microcontroller systems/Noter",
     "Elektronik Noter/Sw1msys microcontroller systems/Noter/Digitale porte.md",
     "Elektronik Noter/Sw1msys microcontroller systems/Noter/Convertere fra decimal til binær og HEX.md",
-    "Billeder/Pasted Image 20260921132559_416.png",
-    "Billeder/Pasted Image 20260920155120_100.png",
     "Elektronik Noter/Elmek matematik/Komplekse tal opgaveregning (draw).md",
     "Elektronik Noter/Elmek matematik/Komplekse tal opgaveregning.md",
     "Excalidraw/Drawing 2026-09-21 10.06.17.excalidraw.md",
