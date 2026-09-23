@@ -13,10 +13,10 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/Drawing 2026-09-23 13.04.47.excalidraw.md"
+                "file": "Elektronik Noter/E1IDE/Karnaugh Map for Sop og pos.md"
               },
               "icon": "excalidraw-icon",
-              "title": "Drawing 2026-09-23 13.04.47.excalidraw"
+              "title": "Karnaugh Map for Sop og pos"
             }
           }
         ]
@@ -194,7 +194,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Excalidraw/Drawing 2026-09-23 13.04.47.excalidraw.md"
+                "file": "Elektronik Noter/E1IDE/Karnaugh Map for Sop og pos.md"
               },
               "icon": "lucide-info",
               "title": "Filegenskaber"
@@ -224,6 +224,8 @@
   },
   "active": "ccda5ec21a8381da",
   "lastOpenFiles": [
+    "Elektronik Noter/E1IDE/DeMorgans opgaveregning 2_1.md",
+    "Elektronik Noter/E1IDE/Karnaugh Map for Sop og pos.md",
     "Pasted Image 20260923143136_076.png",
     "Pasted Image 20260923142716_551.png",
     "Pasted Image 20260923135636_024.png",
@@ -232,7 +234,6 @@
     "Pasted Image 20260923131522_295.png",
     "Pasted Image 20260923130526_956.png",
     "Elektronik Noter/Elmek fysik/Opgaveregning KCL KVL.md",
-    "Excalidraw/Drawing 2026-09-23 13.04.47.excalidraw.md",
     "Excalidraw/Elmek Øvelse 1.md",
     "Elektronik Noter/Elmek fysik/opgavelavning 2.md",
     "Elektronik Noter/Elmek fysik/OPgaveregning 4.md",
@@ -244,7 +245,6 @@
     "Pasted image 20260922104902.png",
     "Pasted image 20260922104711.png",
     "Excalidraw/Unavngivet.md",
-    "Billeder/Pasted Image 20260921132316_012.png",
     "Elektronik Noter/Vigtige formler.md",
     "Elektronik Noter/Sw1msys microcontroller systems/Noter/Kompliment og representering af negative tal.md",
     "Elektronik Noter/Sw1msys microcontroller systems/Noter/Assembly kommandorer.md",
