@@ -11,12 +11,14 @@
             "id": "ccda5ec21a8381da",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Elektronik Noter/E1IDE/Karnaugh Map for Sop og pos.md"
+                "file": "Elektronik Noter/Elmek fysik/opgavelavning 2.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Karnaugh Map for Sop og pos"
+              "icon": "lucide-file",
+              "title": "opgavelavning 2"
             }
           }
         ]
@@ -194,7 +196,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Elektronik Noter/E1IDE/Karnaugh Map for Sop og pos.md"
+                "file": "Elektronik Noter/Elmek fysik/opgavelavning 2.md"
               },
               "icon": "lucide-info",
               "title": "Filegenskaber"
@@ -224,26 +226,29 @@
   },
   "active": "ccda5ec21a8381da",
   "lastOpenFiles": [
-    "Elektronik Noter/E1IDE/DeMorgans opgaveregning 2_1.md",
-    "Elektronik Noter/E1IDE/Karnaugh Map for Sop og pos.md",
-    "Pasted Image 20260923143136_076.png",
-    "Pasted Image 20260923142716_551.png",
-    "Pasted Image 20260923135636_024.png",
-    "Pasted Image 20260923134456_200.png",
-    "Pasted Image 20260923133011_366.png",
-    "Pasted Image 20260923131522_295.png",
-    "Pasted Image 20260923130526_956.png",
-    "Elektronik Noter/Elmek fysik/Opgaveregning KCL KVL.md",
-    "Excalidraw/Elmek Øvelse 1.md",
+    "Elektronik Noter/Elmek fysik/intruduktion til kredsløb.md",
     "Elektronik Noter/Elmek fysik/opgavelavning 2.md",
+    "Billeder/Pasted image 20260922104711.png",
+    "Elektronik Noter/Elmek fysik/Opgavelavning 3.md",
+    "Elektronik Noter/Elmek fysik/Strømstyret strømkilde.md",
+    "Elektronik Noter/Elmek fysik/Opgaveregning KCL KVL.md",
     "Elektronik Noter/Elmek fysik/OPgaveregning 4.md",
+    "Elektronik Noter/E1IDE/Karnaugh Map for Sop og pos.md",
+    "Elektronik Noter/E1IDE/DeMorgans opgaveregning 2_1.md",
+    "Billeder/Pasted Image 20260923143136_076.png",
+    "Billeder/Pasted Image 20260923142716_551.png",
+    "Billeder/Pasted Image 20260923135636_024.png",
+    "Billeder/Pasted Image 20260923134456_200.png",
+    "Billeder/Pasted Image 20260923133011_366.png",
+    "Billeder/Pasted Image 20260923131522_295.png",
+    "Billeder/Pasted Image 20260923130526_956.png",
+    "Excalidraw/Elmek Øvelse 1.md",
     "Elektronik Noter/Sw1msys microcontroller systems/Lab/Lab 5_2.md",
-    "Pasted image 20260922125419.png",
+    "Billeder/Pasted image 20260922125419.png",
     "Elektronik Noter/OPRG/0x00.md",
     "Elektronik Noter/Sw1msys microcontroller systems/Lab/Lab 5_1.md",
     "Elektronik Noter/Sw1msys microcontroller systems/Lab/LAB 4_1.md",
-    "Pasted image 20260922104902.png",
-    "Pasted image 20260922104711.png",
+    "Billeder/Pasted image 20260922104902.png",
     "Excalidraw/Unavngivet.md",
     "Elektronik Noter/Vigtige formler.md",
     "Elektronik Noter/Sw1msys microcontroller systems/Noter/Kompliment og representering af negative tal.md",
@@ -259,10 +264,6 @@
     "Excalidraw/Drawing 2026-09-21 10.06.17.excalidraw.md",
     "Excalidraw/Unavngivet 1.md",
     "Elektronik Noter/Elmek matematik/Opgave A3 og A4.md",
-    "Elektronik Noter/Elmek fysik/Strømstyret strømkilde.md",
-    "Elektronik Noter/Elmek matematik/Vigtige formler.md",
-    "Elektronik Noter/Elmek matematik/Harmoniske funktioner noter.md",
-    "Elektronik Noter/Elmek matematik/Matematik regning 07.09.26.md",
     "Billeder/AVR_v1_AppendixA.pdf",
     "Billeder/E1LMEK introduktionsøvelse 20250122 ver 1.4.4.pdf",
     "Billeder/E1LMEK introduktionsøvelse 20250122 ver 1.4.4 1.pdf",
