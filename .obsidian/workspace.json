@@ -13,10 +13,10 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/Drawing 2026-09-24 13.56.16.excalidraw.md"
+                "file": "Excalidraw/Elmek Øvelse 1.md"
               },
               "icon": "excalidraw-icon",
-              "title": "Drawing 2026-09-24 13.56.16.excalidraw"
+              "title": "Elmek Øvelse 1"
             }
           }
         ]
@@ -81,8 +81,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "7cf8c913432bfa79",
@@ -195,19 +194,18 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Excalidraw/Drawing 2026-09-24 13.56.16.excalidraw.md"
+                "file": "Excalidraw/Elmek Øvelse 1.md"
               },
               "icon": "lucide-info",
               "title": "Filegenskaber"
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 477.5,
-    "collapsed": true
+    "width": 477.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -223,21 +221,22 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ccda5ec21a8381da",
+  "active": "2ed83c1c7b5038d5",
   "lastOpenFiles": [
-    "Pasted Image 20260924135617_174.png",
+    "Excalidraw/Unavngivet.md",
+    "Excalidraw/Elmek Øvelse 1.md",
+    "Billeder/Pasted Image 20260924135617_174.png",
+    "Elektronik Noter/Elmek fysik/Maske og knudepunktsligninger.md",
+    "Billeder/Pasted Image 20260924171215_762.png",
+    "Billeder/Pasted Image 20260924170915_608.png",
     "Elektronik Noter/Elmek fysik/opgavelavning 2.md",
-    "Excalidraw/Drawing 2026-09-24 13.56.16.excalidraw.md",
-    "Pasted Image 20260924164913_843.png",
-    "Pasted Image 20260924161953_701.png",
-    "Pasted Image 20260924161935_088.png",
-    "Pasted Image 20260924160246_659.png",
-    "Pasted Image 20260924155445_673.png",
-    "Pasted Image 20260924154532_060.png",
-    "Pasted Image 20260924154207_030.png",
-    "Pasted Image 20260924152737_427.png",
-    "Pasted Image 20260924152408_378.png",
-    "Pasted Image 20260924152047_935.png",
+    "Billeder/Pasted Image 20260924164913_843.png",
+    "Billeder/Pasted Image 20260924161953_701.png",
+    "Billeder/Pasted Image 20260924161935_088.png",
+    "Billeder/Pasted Image 20260924160246_659.png",
+    "Billeder/Pasted Image 20260924155445_673.png",
+    "Billeder/Pasted Image 20260924154532_060.png",
+    "Billeder/Pasted Image 20260924154207_030.png",
     "Elektronik Noter/Elmek fysik/Makse og knudepunktsligninger.md",
     "Elektronik Noter/Elmek fysik/Strømstyret strømkilde.md",
     "Elektronik Noter/Elmek fysik/intruduktion til kredsløb.md",
@@ -246,12 +245,10 @@
     "Elektronik Noter/Elmek fysik/OPgaveregning 4.md",
     "Elektronik Noter/E1IDE/Karnaugh Map for Sop og pos.md",
     "Elektronik Noter/E1IDE/DeMorgans opgaveregning 2_1.md",
-    "Excalidraw/Elmek Øvelse 1.md",
     "Elektronik Noter/Sw1msys microcontroller systems/Lab/Lab 5_2.md",
     "Elektronik Noter/OPRG/0x00.md",
     "Elektronik Noter/Sw1msys microcontroller systems/Lab/Lab 5_1.md",
     "Elektronik Noter/Sw1msys microcontroller systems/Lab/LAB 4_1.md",
-    "Excalidraw/Unavngivet.md",
     "Elektronik Noter/Vigtige formler.md",
     "Elektronik Noter/Sw1msys microcontroller systems/Noter/Kompliment og representering af negative tal.md",
     "Elektronik Noter/Sw1msys microcontroller systems/Noter/Assembly kommandorer.md",
