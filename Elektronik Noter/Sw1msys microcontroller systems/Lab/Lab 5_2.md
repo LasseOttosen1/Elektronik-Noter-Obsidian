@@ -120,7 +120,7 @@ L1:
    RET                     ; Returnér
 ```
 min O.G code, men uden kommentare.
-```cpp Original kode, uden AI beskrivelser
+```cpp Original kode, uden AI beskrivelser {fold}
    LDI  R16,HIGH(RAMEND)  ;Initier Stack Pointer
    OUT  SPH,R16
    LDI  R16,LOW(RAMEND)
