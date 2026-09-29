@@ -1,0 +1,10 @@
+![[Pasted image 20260928103124.png]]
+matcad udregning![[Komplekse tal 28_9_26.mcdx]]
+![[Pasted image 20260928103739.png|502]]
+
+![[Pasted image 20260928110449.png|544]]
+![[Pasted image 20260928112052.png|540]]
+![[Pasted image 20260928112547.png|446]]
+![[Pasted image 20260928114835.png|498]]
+![[Pasted image 20260928115511.png|518]]
+![[Pasted image 20260928120647.png]]

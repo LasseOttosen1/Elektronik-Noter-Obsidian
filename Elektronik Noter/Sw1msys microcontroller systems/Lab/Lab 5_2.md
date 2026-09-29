@@ -2,7 +2,7 @@
 Kode skrevet af  MIG MIG MIG; men med noter fra Deepseek fordi jeg gad ikke selv skrive dem, koden gennemgår de forskellige punkter som findes her, og det gør det hele og virker tak mange tak. 
 ![[Pasted image 20260922125419.png|488]]
 det hele ligger også under lab 5_2 i onedrive
-```cpp fold
+```cpp Opgaver med AI Beskrivelser {fold}
 ;=========================================================
 ; STACK POINTER INITIERING
 ;=========================================================
@@ -120,7 +120,7 @@ L1:
    RET                     ; Returnér
 ```
 min O.G code, men uden kommentare.
-```cpp fold
+```cpp Original kode, uden AI beskrivelser
    LDI  R16,HIGH(RAMEND)  ;Initier Stack Pointer
    OUT  SPH,R16
    LDI  R16,LOW(RAMEND)

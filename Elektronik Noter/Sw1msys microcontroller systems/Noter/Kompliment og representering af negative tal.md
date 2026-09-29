@@ -1,3 +1,4 @@
+
 Hvis man skal representere et negativt tal i binær, skal man faktisk bare lidt vide at det er negativt.
 Men her er nogle forskellige måder at representere det på
 
