@@ -17,6 +17,8 @@ Eksempel:
 Udregne den totale modstand af et sæt af parralelle modstande: 
 ![[Pasted image 20261021223958.png]]
 ![[Pasted image 20261021224016.png|344]]
+Kan også skrives således:
+
 
 Udregne strømmen i modstand $i_k$ i en kombination af parrallele modstande
 ![[Pasted image 20261021224030.png]]![[Pasted image 20261021224144.png]]
