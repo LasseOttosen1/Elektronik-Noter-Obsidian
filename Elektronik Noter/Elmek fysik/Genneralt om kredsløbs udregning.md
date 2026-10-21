@@ -27,5 +27,6 @@ Altså en ikke ideel spændningskilde vil sende mindre spænding ud jo støre st
 ![[Pasted image 20261021230655.png|288]]
 
 ### Ikke ideel strømkilde 
-ja altså den er deffineret ved at have den ideele strømkilde $i_s$ - 
+ja altså den er deffineret ved at have den ideele strømkilde $i_s$ placeret parralelt med en indre modstand
 ![[Pasted image 20261021230801.png]]
+![[Pasted image 20261021230921.png|375]]
