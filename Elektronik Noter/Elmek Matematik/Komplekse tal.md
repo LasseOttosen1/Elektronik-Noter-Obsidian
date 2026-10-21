@@ -17,6 +17,9 @@ når man ganger 2 komplekse tal, og man vil finde noget på en graf
 så ganger man længderne for de komplekse tal, og man plus'er deres vinkler.
 
 
+![[Pasted image 20260928093557.png|531]]![[Pasted image 20261004171243.png]]
+
+
 Eksempler:
 ![[Pasted image 20260928093557.png|531]]
 ![[Pasted image 20261005093352.png|628]]
@@ -29,3 +32,4 @@ Bevis for sum af harmoniske funktioner:
 ![[Pasted image 20261005093431.png]]
 2
 ![[Pasted image 20261005093447.png|550]]
+
