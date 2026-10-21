@@ -18,7 +18,7 @@ Udregne den totale modstand af et sæt af parralelle modstande:
 ![[Pasted image 20261021223958.png]]
 ![[Pasted image 20261021224016.png|344]]
 Kan også skrives således:
-
+$\left( \frac{1}{R_1} + \frac{1}{R_2} + \dots + \frac{1}{R_N} \right)^{-1}$ måske lidt lættere 
 
 Udregne strømmen i modstand $i_k$ i en kombination af parrallele modstande
 ![[Pasted image 20261021224030.png]]![[Pasted image 20261021224144.png]]
