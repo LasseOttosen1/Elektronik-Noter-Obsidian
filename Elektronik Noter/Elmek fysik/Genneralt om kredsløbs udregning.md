@@ -20,3 +20,12 @@ Udregne den totale modstand af et sæt af parralelle modstande:
 
 Udregne strømmen i modstand $i_k$ i en kombination af parrallele modstande
 ![[Pasted image 20261021224030.png]]![[Pasted image 20261021224144.png]]
+
+### Ikke ideel spædningskilde 
+Altså en ikke ideel spændningskilde vil sende mindre spænding ud jo støre strømmen bliver 
+![[Pasted image 20261021230609.png]]
+![[Pasted image 20261021230655.png|288]]
+
+### Ikke ideel strømkilde 
+ja altså den er deffineret ved at have den ideele strømkilde $i_s$ - 
+![[Pasted image 20261021230801.png]]
