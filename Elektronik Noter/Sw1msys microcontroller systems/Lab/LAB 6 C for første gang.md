@@ -1,7 +1,7 @@
 VI lavede keybord og lysdæmperen igen, men nu skrevet i C. Her er koden 
 
 
-```c keybord kode skrevet i c {fold}
+```c keybord kode skrevet i c
 /*
  * keyboard C.c
  *
@@ -27,7 +27,7 @@ int main(void)
 		PORTB = 0;
 		_delay_us(956);
 		PORTB = ~PORTB;
-		}
+			}
 		else if ((PINA & 0b00000010) == 0){
 		PORTB = 255;
 		_delay_us(852);
