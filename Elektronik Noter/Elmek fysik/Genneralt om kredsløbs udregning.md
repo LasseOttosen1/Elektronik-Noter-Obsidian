@@ -21,6 +21,7 @@ Kan også skrives således:
 $\left( \frac{1}{R_1} + \frac{1}{R_2} + \dots + \frac{1}{R_N} \right)^{-1}$ måske lidt lættere 
 
 Udregne strømmen i modstand $i_k$ i en kombination af parrallele modstande
+G= ledsningsevne 
 ![[Pasted image 20261021224030.png]]![[Pasted image 20261021224144.png]]
 
 ### Ikke ideel spædningskilde 
@@ -32,3 +33,15 @@ Altså en ikke ideel spændningskilde vil sende mindre spænding ud jo støre st
 ja altså den er deffineret ved at have den ideele strømkilde $i_s$ placeret parralelt med en indre modstand
 ![[Pasted image 20261021230801.png]]
 ![[Pasted image 20261021230921.png|375]]
+### Transistore
+En transistor har 3 dele 
+-Collector: strømmen kommer ind her
+![[Pasted image 20261022123742.png]]
+-basis: Den strøm som bliver "ganget" op og bliver til collectoren
+$Ic/Ib = B$
+-Emitter: collectoren + basis strømmen. 
+$I_C + I_B = I_E$
+
+Hvis man giver en transistor meget strøm på basis, eller ingen strøm kalder man den mættet, og så slukker den kredsløbet mellem Collector og Emitter.
+
+ 
