@@ -8,6 +8,8 @@ $$z=r*e^{j\theta}$$
 $$r*e^{j\theta}=r*(cos(\theta)+j*sin(\theta))$$
 $$arg(e^{j\theta})=\theta$$
 hvad vinklen er: $arg(Z)=\theta=Arctan(\frac{b}{a})+-\pi$ 
+![[Pasted image 20261026190145.png|244]]
+![[Pasted image 20261026190133.png|240]]
 
 $Z_1+Z_2= (a_1+a_2)+ j(b_1+b_2)$
 $Z_1-Z_2= (a_1-a_2)+ j(b_1-b_2)$
@@ -15,6 +17,8 @@ $Z_1*Z_2= r_1*r_2 \angle \theta_1+ \theta_2$
 $\frac{Z_1}{Z_2} = \frac{r_1}{r_2} \, e^{j(\theta_1 - \theta_2)}$
 
 finde r: (modolus af z): $r = |z| = \sqrt{a^2 + b^2}$
+
+
 
 De Moivre's theorem:
 $(cos(\theta) + j*sin(\theta))^n = cos(n\theta) +j*sin(n\theta)$
