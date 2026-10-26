@@ -18,6 +18,7 @@ finde r: (modolus af z): $r = |z| = \sqrt{a^2 + b^2}$
 
 De Moivre's theorem:
 $(cos(\theta) + j*sin(\theta))^n = cos(n\theta) +j*sin(n\theta)$
+
 finde kompleks kojoktion z:   $\overline{z} = a+j*-b$ altså den imaginere del ændre sig. 
 
 når man ganger 2 komplekse tal, og man vil finde noget på en graf
