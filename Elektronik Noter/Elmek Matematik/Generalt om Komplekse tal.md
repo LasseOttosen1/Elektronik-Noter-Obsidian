@@ -21,6 +21,7 @@ $(cos(\theta) + j*sin(\theta))^n = cos(n\theta) +j*sin(n\theta)$
 
 Komplekse rødder
 $W_p = \sqrt[n]{r} \, \angle\left(\frac{\theta}{n} + \frac{2\pi p}{n}\right)$
+P= 0,1,2,3.... n-1
 
 finde kompleks kojoktion z:   $\overline{z} = a+j*-b$ altså den imaginere del ændre sig. 
 
