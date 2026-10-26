@@ -5,7 +5,7 @@ Polær Form
 $$Z=r\space\angle(\theta)$$
 Eksponentiel form
 $$z=r*e^{j\theta}$$
-$$r*e^{j\theta}=cos(\theta)+j*sin(\theta)$$
+$$r*e^{j\theta}=r*(cos(\theta)+j*sin(\theta))$$
 $$arg(e^{j\theta})=\theta$$
 hvad vinklen er: $arg(Z)=\theta=Arctan(\frac{b}{a})+-\pi$ 
 
@@ -16,7 +16,7 @@ $\frac{Z_1}{Z_2} = \frac{r_1}{r_2} \, e^{j(\theta_1 - \theta_2)}$
 
 finde r: (modolus af z): $r = |z| = \sqrt{a^2 + b^2}$
 
-De Moivre's theorem:
+De Moivre's theorem:1
 $(cos(\theta) + j*sin(\theta))^n = cos(n\theta) +j*sin(n\theta)$
 
 finde kompleks kojoktion z:   $\overline{z} = a+j*-b$ altså den imaginere del ændre sig. 
