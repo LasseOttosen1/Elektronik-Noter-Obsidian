@@ -16,8 +16,11 @@ $\frac{Z_1}{Z_2} = \frac{r_1}{r_2} \, e^{j(\theta_1 - \theta_2)}$
 
 finde r: (modolus af z): $r = |z| = \sqrt{a^2 + b^2}$
 
-De Moivre's theorem:1
+De Moivre's theorem:
 $(cos(\theta) + j*sin(\theta))^n = cos(n\theta) +j*sin(n\theta)$
+
+Komplekse rødder
+$W_p = \sqrt[n]{r} \, \angle\left(\frac{\theta}{n} + \frac{2\pi p}{n}\right)$
 
 finde kompleks kojoktion z:   $\overline{z} = a+j*-b$ altså den imaginere del ændre sig. 
 
