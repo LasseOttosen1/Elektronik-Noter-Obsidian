@@ -70,4 +70,4 @@ Den kan også gøre det modstatte
 FAST PWM er fast mode
 PWM, Phase correct, er slow mode. 
 ![[Pasted image 20261027091104.png|539]]
-![[Pasted image 20261027091139.png]]
+![[Pasted image 20261027091139.png|536]]![[Pasted image 20261027091150.png|533]]
