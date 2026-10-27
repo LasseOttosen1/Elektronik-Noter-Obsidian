@@ -1,3 +1,4 @@
+#### NORMAL MODE
 Timer bruges til at kunne tælle ting parralelt til microkontrollerns cpu.
 ![[Pasted image 20261020082048.png]]
 timer 0 og 2: bruger en 8 bit til at tælle altså den har max på 255.
@@ -17,3 +18,7 @@ Her er et eksempel på et regnestykke som udrenger hvor meget det her program er
 Nu smider jeg tallene ind i fromlen.
 ![[Pasted image 20261020092925.png|419]]
 Her er svaret 
+
+
+#### CTC MODE
+
