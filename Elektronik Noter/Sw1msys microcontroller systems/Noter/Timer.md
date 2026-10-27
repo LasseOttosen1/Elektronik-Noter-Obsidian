@@ -79,3 +79,11 @@ Man skal også vælge prescaler det gøres ligesom på de andre timers.
 
 Compare systemer: 
 ![[Pasted image 20261027093114.png]]
+![[Pasted image 20261027100404.png]]
+![[Pasted image 20261027100413.png|480]]
+![[Pasted image 20261027100424.png]]
+![[Pasted image 20261027100435.png]]
+![[Pasted image 20261027100445.png|470]]
+![[Pasted image 20261027100456.png]]
+![[Pasted image 20261027100507.png]]
+![[Pasted image 20261027100513.png|467]]
