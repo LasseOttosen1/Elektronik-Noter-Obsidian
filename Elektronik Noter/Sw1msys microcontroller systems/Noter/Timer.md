@@ -45,4 +45,10 @@ Vælge Prescaler for timers i CTC
 
 #### PWM MODE
 
-![[Pasted image 20261027085138.png|577]]
+PWM mode køre fra 0 til top mode og så ned igen, så det køre op og ned hele tide. 
+Den giver en høj puls mellem OCRn Match'. jo tættere OCRn kommer på TOP, jo mindre bliver Duty cycle. 
+![[Pasted image 20261027085138.png|322]]
+![[Pasted image 20261027085306.png|420]]
+Den kan også sættes i den modstatte mode:
+![[Pasted image 20261027085641.png|404]]
+
