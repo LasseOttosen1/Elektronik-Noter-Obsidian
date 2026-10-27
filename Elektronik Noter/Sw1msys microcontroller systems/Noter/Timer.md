@@ -22,3 +22,11 @@ Her er svaret
 
 #### CTC MODE
 
+![[Pasted image 20261027082942.png|464]]
+![[Pasted image 20261027083047.png|457]]
+
+![[Pasted image 20261027083003.png|522]]
+![[Pasted image 20261027083015.png|523]]
+
+Vælge Prescaler for timers i CTC
+![[Pasted image 20261027083139.png|483]]
