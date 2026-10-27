@@ -22,6 +22,7 @@ Her er svaret
 
 #### CTC MODE
 
+CTC mode generere et signal ud på port ben, som kan bruges til at lave 
 Timer 0 og 2 er igen et 8 bit register, og 1,3,4,5 er 16 bit register lavet af 2 forskellige 8 bit registre. I "C" skal vi ikke tænke på at ændre begge registre, det gør den for os.
 MAN KAN IKKE BRUGE TIMER 0 OG TIMER 1 I CTC MODE PÅ SAMME TID 💀 
 
