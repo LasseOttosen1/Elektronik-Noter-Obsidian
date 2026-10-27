@@ -30,11 +30,12 @@ MAN KAN IKKE BRUGE TIMER 0 OG TIMER 1 I CTC MODE PÅ SAMME TID 💀
 ![[Pasted image 20261027083855.png|576]]
 
 
-![[Pasted image 20261027082942.png|464]]
+![[Pasted image 20261027082942.png|457]]
 ![[Pasted image 20261027083047.png|457]]
 
-![[Pasted image 20261027083003.png|522]]
+
 ![[Pasted image 20261027083015.png|523]]
+![[Pasted image 20261027083003.png|522]]
 
 ---
 
