@@ -70,7 +70,7 @@ Den kan også gøre det modstatte
 FAST PWM er fast mode
 PWM, Phase correct, er slow mode. 
 ![[Pasted image 20261027091104.png|539]]
-![[Pasted image 20261027091139.png|474]]![[Pasted image 20261027091150.png|479]]
+![[Pasted image 20261027091139.png|474]]![[Pasted image 20261027091150.png|548]]
 ![[Pasted image 20261027091809.png|485]]
 Man skal også vælge prescaler det gøres ligesom på de andre timers. 
 ![[Pasted image 20261027091858.png|484]]
