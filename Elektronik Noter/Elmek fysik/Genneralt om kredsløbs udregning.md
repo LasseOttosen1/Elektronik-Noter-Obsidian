@@ -23,6 +23,7 @@ $\left( \frac{1}{R_1} + \frac{1}{R_2} + \dots + \frac{1}{R_N} \right)^{-1}$ mås
 Udregne strømmen i modstand $i_k$ i en kombination af parrallele modstande
 G= ledsningsevne 
 ![[Pasted image 20261021224030.png]]![[Pasted image 20261021224144.png]]
+![[Pasted image 20261029124400.png|580]]
 
 ### Ikke ideel spædningskilde 
 Altså en ikke ideel spændningskilde vil sende mindre spænding ud jo støre strømmen bliver 
