@@ -49,14 +49,20 @@ $I_C + I_B = I_E$
 Hvis man giver en transistor meget strøm på basis, eller ingen strøm kalder man den mættet, og så slukker den kredsløbet mellem Collector og Emitter.
 
 
-### Thevenin model
+### Thevenin model + note
 den ser således ud 
 ![[Pasted image 20261029151431.png|325]]
+Man skal starte med at finde $R_{th}$ af et system, det gør man ved at lave superposition. eks:
+![[Pasted image 20261029152129.png|383]]
+
 modstanden $R_{th}$ er den samme som ligge parralelt i norton modellen. Man kan lave en thevenin model om til en norton model ved at:
 
 ${spænding}/{modstand}$ = norton strømkilden 
-på den måde kan man reducere et elektrisk kredsløb lidt ligesom man tager og laver parralle modstande eks: 
+på den måde kan man reducere et elektrisk kredsløb lidt ligesom man tager og ligger serie modstande sammen, og man kan tage den Rq af parralele modstande: 
+![[Pasted image 20261029151854.png|545]]
 
 
 ### Northon model
+den ser således ud
 ![[Pasted image 20261029151449.png]]
+man kan lave en norton model om til en thevenin ved at tage og gange strømmen fra strømkilden sammen med modstanden, det giver spændingen i thevenin modellen.
