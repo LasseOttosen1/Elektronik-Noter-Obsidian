@@ -4,7 +4,8 @@ simpel general løsning DL eks:
 $\frac{dy}{dx}=3x^{2}$
 $\int{dy}=\int{3x{2}\space dx}$
 $y=x^{3}+k$
-
+STANDARD FORM
+$\frac{dy}{dx} + P(x)*y
 
 
 ###### regneregler
