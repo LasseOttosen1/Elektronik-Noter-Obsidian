@@ -17,7 +17,7 @@ $Z_1*Z_2= r_1*r_2 \angle \theta_1+ \theta_2$
 $\frac{Z_1}{Z_2} = \frac{r_1}{r_2} \, e^{j(\theta_1 - \theta_2)}$
 
 finde r: (modolus af z): $r = |z| = \sqrt{a^2 + b^2}$
-
+![[Pasted image 20261102115757.png|367]]
 
 
 De Moivre's theorem:
