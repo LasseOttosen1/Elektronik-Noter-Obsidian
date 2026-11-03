@@ -6,3 +6,9 @@ programmet hopper tilbage efter interruptet
 her er et eksempel:
 ![[Pasted image 20261103083007.png|343]]
 ![[Pasted image 20261103083320.png|428]]
+![[Pasted image 20261103084054.png]]
+det her skal skrives for at koden virker 
+![[Pasted image 20261103084114.png]]![[Pasted image 20261103084208.png]]
+
+her er alle timer interrupts 
+![[Pasted image 20261103084246.png]]
