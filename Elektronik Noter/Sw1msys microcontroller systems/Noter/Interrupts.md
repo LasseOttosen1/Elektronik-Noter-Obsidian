@@ -18,3 +18,4 @@ for at få det til at virke skal vi sætte et register ved navn EIMSK til 1 på 
 ![[Pasted image 20261103084844.png|442]]
 
 ![[Pasted image 20261103085027.png]]
+![[Pasted image 20261103085406.png|463]]
