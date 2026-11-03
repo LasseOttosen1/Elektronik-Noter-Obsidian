@@ -19,3 +19,5 @@ for at få det til at virke skal vi sætte et register ved navn EIMSK til 1 på 
 
 ![[Pasted image 20261103085027.png]]
 ![[Pasted image 20261103085406.png|463]]
+man kan se her hvilke interrupts der har højest prioritet, og man kan se at for timersne, er det timer 2 som har den højeste.
+![[Pasted image 20261103091540.png]]![[Pasted image 20261103091619.png]]
