@@ -1,4 +1,4 @@
-![[Pasted image 20261103082926.png]]
+	![[Pasted image 20261103082926.png]]
 ![[Pasted image 20261103082917.png]]
 ![[Pasted image 20261103082946.png]]
 programmet hopper tilbage efter interruptet 
