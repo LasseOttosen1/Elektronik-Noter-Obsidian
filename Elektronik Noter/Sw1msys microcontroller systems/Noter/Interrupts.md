@@ -12,3 +12,9 @@ det her skal skrives for at koden virker
 
 her er alle timer interrupts 
 ![[Pasted image 20261103084246.png]]
+vi har altså på ben 2 og 3 et interrupt 
+![[Pasted image 20261103084648.png]]
+for at få det til at virke skal vi sætte et register ved navn EIMSK til 1 på INT2 og INT3 
+![[Pasted image 20261103084844.png|442]]
+
+![[Pasted image 20261103085027.png]]
