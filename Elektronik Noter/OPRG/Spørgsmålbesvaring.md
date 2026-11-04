@@ -22,5 +22,14 @@ D. Den erklærer en ny pointer, der hedder x
 
 "den giver værdien der ligger på den adresse som p peger på "
 
+![[Pasted image 20261104093027.png]]
+det er en lille snyder, der mangler et gange  * foran pharry i sizeof operatioren, for at den ville pegje på de 80 bytes, men den fortæller faktisk lænden af typen pointer, som altid er 8 i et 64 sytem. 
+
+![[Pasted image 20261104093218.png|554]]
+ptr pejer på 40, fordi arrayet er 0 indekseret, og så minus 1, så den pegjer på 30 
+
+![[Pasted image 20261104093324.png]]
+forskillen er at en sizeof(s) siger 6, og en strlen(s) siger 5, det er fordi der står et usynligt \0 i slutningen af en tekst, og dermed tælles den med i sizeof, hvormod strlen stopper ved \0, som er usynligt. 
+![[Pasted image 20261104093501.png]]
 
 
