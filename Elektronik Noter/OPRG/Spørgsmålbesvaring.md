@@ -54,3 +54,6 @@ fordi at den tager og kopiere a ind i funktionen, men den returner ikke noget, d
 
 ![[Pasted image 20261104094502.png|584]]
 
+det er D. 1 10, fordi at når filen læser variabel a ind i structen sætter den structen til 1, 2. Men herefter i move funktionen sker der ikke noget fordi det igen kun er en lokal variabel og det ikke ændre noget ved selve a. 
+
+Men moveptr(&a) gør noget fordi den tager addressen og smider ind i funktionen, og den ændre a til det som pointeren siger, og det er 10. 
