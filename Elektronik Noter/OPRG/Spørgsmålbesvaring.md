@@ -32,4 +32,17 @@ ptr pejer på 40, fordi arrayet er 0 indekseret, og så minus 1, så den pegjer 
 forskillen er at en sizeof(s) siger 6, og en strlen(s) siger 5, det er fordi der står et usynligt \0 i slutningen af en tekst, og dermed tælles den med i sizeof, hvormod strlen stopper ved \0, som er usynligt. 
 ![[Pasted image 20261104093501.png]]
 
+det er D
+![[Pasted image 20261104093546.png]]
+det står for
 
+%s = string
+%d = decimal
+%c = char 
+%p = pinter 
+man skal bruge d
+
+![[Pasted image 20261104093623.png]]
+
+dette er en snyder igen, 
+programmet tager fra en fil, og fortæller længden af et array, argv. Og den er åbenbart 4 fordi den tæller /calc med. 
