@@ -46,3 +46,11 @@ man skal bruge d
 
 dette er en snyder igen, 
 programmet tager fra en fil, og fortæller længden af et array, argv. Og den er åbenbart 4 fordi den tæller /calc med. 
+
+![[Pasted image 20261104094300.png|559]]
+
+B. 5
+fordi at den tager og kopiere a ind i funktionen, men den returner ikke noget, den er altså en lokal variabel, og forsvinder herefter lige med det samme. 
+
+![[Pasted image 20261104094502.png|584]]
+
