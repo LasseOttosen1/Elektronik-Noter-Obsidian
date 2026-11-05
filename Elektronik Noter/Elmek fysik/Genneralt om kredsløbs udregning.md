@@ -66,3 +66,4 @@ på den måde kan man reducere et elektrisk kredsløb lidt ligesom man tager og 
 den ser således ud
 ![[Pasted image 20261029151449.png]]
 man kan lave en norton model om til en thevenin ved at tage og gange strømmen fra strømkilden sammen med modstanden, det giver spændingen i thevenin modellen.
+$I*R=V$
