@@ -67,3 +67,8 @@ den ser således ud
 ![[Pasted image 20261029151449.png]]
 man kan lave en norton model om til en thevenin ved at tage og gange strømmen fra strømkilden sammen med modstanden, det giver spændingen i thevenin modellen.
 $I*R=V$
+### OP-AMP
+En op amp ganger indput spænding med en værdi K. Men ej mere end indangsspændingens total. En op amp har idielt uendelig stor modstand i deres input. 
+![[Pasted image 20261106084349.png|431]]
+her er et eksempel på et op amp kredsløb
+det vigtige er $
