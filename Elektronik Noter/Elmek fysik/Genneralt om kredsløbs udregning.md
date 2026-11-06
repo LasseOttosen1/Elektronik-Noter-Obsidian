@@ -69,6 +69,10 @@ man kan lave en norton model om til en thevenin ved at tage og gange strømmen f
 $I*R=V$
 ### OP-AMP
 En op amp ganger indput spænding med en værdi K. Men ej mere end indangsspændingens total. En op amp har idielt uendelig stor modstand i deres input. 
-![[Pasted image 20261106084349.png|431]]
+![[Pasted image 20261106084702.png]]
 her er et eksempel på et op amp kredsløb
-det vigtige er $
+det vigtige er $R_f$ recistence feedback, altså den modstand som ligger mellem output og indput. 
+Og den modstand som ligger foran 40V. 
+med de 2 kan man bestemme hvor meget spænding der kommer på VOut.
+man kan lave superpositon altså ignorere den ene spændingsgiver, og derefter den anden. Og så til sidst ligge dem sammen, det giver output på Vout.
+For en inverting op amp, er fromlen
