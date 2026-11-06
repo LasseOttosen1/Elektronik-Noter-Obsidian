@@ -75,4 +75,10 @@ det vigtige er $R_f$ recistence feedback, altså den modstand som ligger mellem 
 Og den modstand som ligger foran 40V. 
 med de 2 kan man bestemme hvor meget spænding der kommer på VOut.
 man kan lave superpositon altså ignorere den ene spændingsgiver, og derefter den anden. Og så til sidst ligge dem sammen, det giver output på Vout.
-For en inverting op amp, er fromlen
+For en inverting op amp, er fromlen 
+![[Pasted image 20261106085025.png]]
+og den ser således ud :
+![[Pasted image 20261106085045.png|352]]
+altså har den stel ind på + polen, og man skla bare bruge de 2 modstande som er vist på tegningen. 
+![[Pasted image 20261106085142.png|444]]
+og her er den anden. Det er med denne formel. ![[Pasted image 20261106085159.png]]
