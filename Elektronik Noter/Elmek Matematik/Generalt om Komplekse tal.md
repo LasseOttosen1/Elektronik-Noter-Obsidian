@@ -28,7 +28,7 @@ $W_p = \sqrt[n]{r} \, \angle\left(\frac{\theta}{n} + \frac{2\pi p}{n}\right)$
 P= 0,1,2,3.... n-1
 
 finde kompleks kojoktion z:   $\overline{z} = a+j*-b$ altså den imaginere del ændre sig. 
-
+![[Pasted image 20261109113710.png]]
 når man ganger 2 komplekse tal, og man vil finde noget på en graf
 så ganger man længderne for de komplekse tal, og man plus'er deres vinkler.
 
