@@ -5,7 +5,7 @@ Polær Form
 $$Z=r\space\angle(\theta)$$
 Eksponentiel form
 $$z=r*e^{j\theta}$$
-$$r*e^{j\theta}=r*(cos(\theta)+j*sin(\theta))$$
+ Produkt form: $$r*e^{j\theta}=r*(cos(\theta)+j*sin(\theta))$$
 $$arg(e^{j\theta})=\theta$$
 hvad vinklen er: $arg(Z)=\theta=Arctan(\frac{b}{a})+-\pi$ 
 ![[Pasted image 20261026190145.png|241]]
