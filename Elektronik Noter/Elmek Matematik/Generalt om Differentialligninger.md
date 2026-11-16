@@ -28,8 +28,11 @@ Eksempel på et første ordens kredsløb
 Homogen differentialligning:
 ![[Pasted image 20261116084057.png]]
 #### For homogen ligning:
+
 Karakterligningen: $ak^2 + bk + c = 0$, med rødderne $k = \dfrac{-b \pm \sqrt{b^2 - 4ac}}{2a}$ 
 diskriminanten $D = b^2 - 4ac$.
+Fordi en 2 ordens homogen differentialligning  vil altid vil have karakter ligningen som løsning. 
+fordi 
 ##### case I
 $D>0$: fuldstændig løsning $Y_h(x) = A e^{k_1 x} + B e^{k_2 x}$.
 hvor $A$ og $B$ er reelle tal, $A, B \in \mathbb{R}$.
@@ -38,7 +41,7 @@ hvor $A$ og $B$ er reelle tal, $A, B \in \mathbb{R}$.
 $D<0$: $k = \dfrac{-b \pm \sqrt{D}}{2a} = -\dfrac{b}{2a} \pm j\dfrac{\sqrt{4ac-b^2}}{2a}$,
 hvor $\alpha = -\dfrac{b}{2a}$ og $\beta = \dfrac{\sqrt{4ac-b^2}}{2}$.
 
-Fuldstændig homogen løsning: $Y_h(x) = e^{\alpha x}\bigl(A\cos(\beta x) + B\sin(\beta x)\bigr)$.
+Fuldstændig homogen løsning: $Y_h(x) = e^{\alpha x}\bigl(A\cos(\beta x) + B\sin(\beta x)\bigr)$
 
 ##### Case III
 $D = 0$: 
