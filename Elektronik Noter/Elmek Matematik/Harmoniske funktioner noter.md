@@ -16,3 +16,4 @@ afslæsning af sinuskurve fra plot opgave 1:
 Aflæse fra sinuskurve opgave 2:
 
 ![[Pasted image 20260907093307.png]]
+![[Pasted image 20261116150136.png]]
