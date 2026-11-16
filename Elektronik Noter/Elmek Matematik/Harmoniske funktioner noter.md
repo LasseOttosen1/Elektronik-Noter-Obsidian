@@ -11,6 +11,10 @@ herefter tager man $-\omega*Td$ = $\phi$
 
 afslæsning af sinuskurve fra plot opgave 1:
 
+![[Pasted image 20261116150750.png]]
+
+![[Pasted image 20261116150755.png]]
+
 ![[Pasted image 20260907091418.png]]
 
 Aflæse fra sinuskurve opgave 2:
