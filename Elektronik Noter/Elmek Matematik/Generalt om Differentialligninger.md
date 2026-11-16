@@ -27,6 +27,8 @@ Eksempel på et første ordens kredsløb
 ![[Pasted image 20261116083854.png|436]]
 Homogen differentialligning:
 ![[Pasted image 20261116084057.png]]
+For homogen ligning:
+Hvis:
 
 eksempel på et anden ordens kredsløb
 
