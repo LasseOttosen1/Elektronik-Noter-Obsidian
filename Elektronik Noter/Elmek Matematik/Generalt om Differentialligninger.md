@@ -27,8 +27,23 @@ Eksempel på et første ordens kredsløb
 ![[Pasted image 20261116083854.png|436]]
 Homogen differentialligning:
 ![[Pasted image 20261116084057.png]]
-For homogen ligning:
-Hvis:
+#### For homogen ligning:
+Karakterligningen: $ak^2 + bk + c = 0$, med rødderne $r = \dfrac{-b \pm \sqrt{b^2 - 4ac}}{2a}$ og diskriminanten $D = b^2 - 4ac$.
+##### case I
+$D>0$: fuldstændig løsning $Y_h(x) = A e^{k_1 x} + B e^{k_2 x}$.
+
+##### Case II
+$D<0$: $k = \dfrac{-b \pm \sqrt{D}}{2a} = -\dfrac{b}{2a} \pm j\dfrac{\sqrt{4ac-b^2}}{2a}$,
+hvor $\alpha = -\dfrac{b}{2a}$ og $\beta = \dfrac{\sqrt{4ac-b^2}}{2}$.
+
+Fuldstændig homogen løsning: $Y_h(x) = e^{\alpha x}\bigl(A\cos(\beta x) + B\sin(\beta x)\bigr)$.
+
+##### Case III
+$D = 0$: 
+$k = k_1 = k_2$ (dobbelt rod), 
+$y_1(x) = e^{k_1 x} = e^{k_2 x}$, 
+$y_2(x) = x\,e^{k x}$,  
+$Y_h(x) = (A + Bx)\,e^{k x}$.
 
 eksempel på et anden ordens kredsløb
 
