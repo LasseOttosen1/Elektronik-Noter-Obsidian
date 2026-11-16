@@ -29,6 +29,7 @@ Homogen differentialligning:
 ![[Pasted image 20261116084057.png]]
 #### For homogen ligning:
 
+#### Fuldstændig homogen løsning
 Karakterligningen: $ak^2 + bk + c = 0$, med rødderne $k = \dfrac{-b \pm \sqrt{b^2 - 4ac}}{2a}$ 
 diskriminanten $D = b^2 - 4ac$.
 Fordi en 2 ordens homogen differentialligning  vil altid vil have karakter ligningen som løsning. 
