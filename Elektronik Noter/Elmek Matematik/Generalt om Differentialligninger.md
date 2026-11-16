@@ -37,7 +37,7 @@ $e^{kx}$: $\dfrac{d^2}{dx^2}\left(e^{kx}\right) = k^2 e^{kx}$
 
 $\dfrac{d}{dx}\left(e^{kx}\right) = k\,e^{kx}$
 
-det vil altså sige man kan tage den ude for en parrantes  
+det vil altså sige man kan tage den ude for en parantes  
 $e^{kx}\left(k^2 + k + c\right) = 0$
 og $e^{x}$ kan aldriv være 0, derfor siger 0 reglen at den anden side må være nul altså $(k^2 + k + c)$ derfor er karakterligningen som den er. 
 ##### case I
