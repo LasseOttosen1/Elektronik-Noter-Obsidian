@@ -33,6 +33,13 @@ Karakterligningen: $ak^2 + bk + c = 0$, med rødderne $k = \dfrac{-b \pm \sqrt{b
 diskriminanten $D = b^2 - 4ac$.
 Fordi en 2 ordens homogen differentialligning  vil altid vil have karakter ligningen som løsning. 
 fordi 
+$e^{kx}$: $\dfrac{d^2}{dx^2}\left(e^{kx}\right) = k^2 e^{kx}$
+
+$\dfrac{d}{dx}\left(e^{kx}\right) = k\,e^{kx}$
+
+det vil altså sige man kan tage den ude for en parrantes  
+$e^{kx}\left(k^2 + k + c\right) = 0$
+og $e^{x}$ kan aldriv være 0, derfor siger 0 reglen at den anden side må være nul altså $(k^2 + k + c)$ derfor er karakterligningen som den er. 
 ##### case I
 $D>0$: fuldstændig løsning $Y_h(x) = A e^{k_1 x} + B e^{k_2 x}$.
 hvor $A$ og $B$ er reelle tal, $A, B \in \mathbb{R}$.
