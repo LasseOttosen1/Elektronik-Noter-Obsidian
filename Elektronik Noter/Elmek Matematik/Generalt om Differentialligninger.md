@@ -14,3 +14,6 @@ $\int{dx}=x$
 $\int{dx(x*y)}=x*y$
 ![[Pasted image 20261102091856.png|356]]
 ![[Pasted image 20261102091754.png|448]]
+
+Hvis man har en fnuktion som består af endten en spole, eller en kondensatore. Er det et 1.ordens differenatialligning. 
+Men hvis der er begge, et såkaldt RCL kredsløb, så er det en 2.ordens differentialligning. 
