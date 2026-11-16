@@ -24,7 +24,10 @@ Eksempel på et første ordens kredsløb
 ![[Pasted image 20261116083603.png|408]]
 
 ### Anden ordens differentialligning
-![[Pasted image 20261116083403.png|420]]
+![[Pasted image 20261116083854.png|436]]
+Homogen differentialligning:
+![[Pasted image 20261116084057.png]]
+
 eksempel på et anden ordens kredsløb
 
 ![[Pasted image 20261116083521.png|477]]
