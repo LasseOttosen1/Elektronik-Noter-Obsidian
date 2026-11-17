@@ -2,9 +2,9 @@
 ![[Pasted image 20261110091032.png]]
 UDR Transmit og UDR Receive, er 2 forskellige registre, altså du kan kun læse UDR Recive, og skrive UDR transmit. 
 
-![[Pasted image 20261110092306.png|529]]
+![[Pasted image 20261110092306.png|611]]
 
-![[Pasted image 20261110091916.png|499]]
+![[Pasted image 20261110091916.png|608]]
 
-![[Pasted image 20261110092607.png|522]]
-![[Pasted image 20261117092404.png|510]]
+![[Pasted image 20261110092607.png|610]]
+![[Pasted image 20261117092404.png|611]]
