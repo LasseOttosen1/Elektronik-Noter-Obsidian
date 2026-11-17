@@ -7,4 +7,4 @@ UDR Transmit og UDR Receive, er 2 forskellige registre, altså du kan kun læse 
 ![[Pasted image 20261110091916.png|499]]
 
 ![[Pasted image 20261110092607.png|522]]
-
+![[Pasted image 20261117092404.png|510]]
