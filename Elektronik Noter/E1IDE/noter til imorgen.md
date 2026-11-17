@@ -1,3 +1,5 @@
+![[Pasted image 20261117171331.png|531]]
+
 ![[Pasted image 20261117165324.png]]
 
 hz=
@@ -9,3 +11,5 @@ en pull op og down modstand skal altid være connected, altså hvis det er en pu
 eksempel:
 ![[Pasted image 20261117171150.png|378]]
 her er ingen af dem placeret korrekt, fordi pull downen burde være på not gaten, og switchen burde være mellem vcc og de andre ting. 
+
+![[Pasted image 20261117171444.png|636]]
