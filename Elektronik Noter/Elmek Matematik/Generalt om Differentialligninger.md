@@ -105,6 +105,7 @@ inhomogen/homogen = den er inhomogen
 a = 1/2
 b = -1/2
 c = -3
+
 Homogen løsning $y_h(x)$
 
 1/2k-1/2k -3 = 0
@@ -112,4 +113,15 @@ k = 1/2k +- 5/2 , k = 3 og k = -2
 
 gå op og kig i cases
 
-$Y_h(x) = A e^{k_1 x} + B e^{k_2 x}$.
+case I
+$D>0$: fuldstændig løsning $Y_h(x) = A e^{k_1 x} + B e^{k_2 x}$.
+hvor $A$ og $B$ er reelle tal, $A, B \in \mathbb{R}$.
+
+partikulær løsning:
+f(x)= 1*e^2x
+hvad gætter vi på?, kig i skema 
+$y_p(x)= \alpha * e^{kx}$
+
+$\frac{dy}{dx} = 2de^{2x}$
+
+$\frac{d^2y_p}{dx^2} = \frac{d}{dx} \cdot \frac{d}{dx} y_p(x) = 4de^{2x}$
