@@ -79,7 +79,7 @@ VS=HS=f(x)
 Fuldstændig/general løsning.
 ![[Pasted image 20261123083057.png|285]]
 hvor $y_{hom}(x)$ her er f(x)=0
-og $yp
+og $y_{p}(x)$ her er f(x) ikke 0
 
 Gæt på noget der ligner f(x)
 ![[Pasted image 20261123083303.png|360]]
@@ -88,3 +88,6 @@ Gæt $y_{p}(x)$ -> indsæt i DL -> HS = VS
 nej = nyt gæt
 ja = $y_{p}(x)$ er en partikulær løsning
 
+Specifik løsning, 2 radbetingelser
+
+i) $y(x_0) = \lamda_o$
