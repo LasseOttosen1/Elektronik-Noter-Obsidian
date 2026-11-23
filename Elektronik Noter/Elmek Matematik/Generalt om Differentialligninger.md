@@ -101,4 +101,15 @@ uafh var: x
 orden: 2
 grad = 1 
 lineær = ja
-inhomofwn
+inhomogen/homogen = den er inhomogen
+a = 1/2
+b = -1/2
+c = -3
+Homogen løsning $y_h(x)$
+
+1/2k-1/2k -3 = 0
+k = 1/2k +- 5/2 , k = 3 og k = -2
+
+gå op og kig i cases
+
+$Y_h(x) = A e^{k_1 x} + B e^{k_2 x}$.
