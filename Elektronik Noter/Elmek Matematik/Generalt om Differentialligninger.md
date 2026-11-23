@@ -133,4 +133,22 @@ $-2\alpha e^{2x}$
 HS:
 $1*e^{2x}$
 
-er VS = HS?
+
+finder hvad alpha er  ved at sætte VS=HS
+$\alpha = -\frac {1} {2}$
+så fra vores gæt for vi at
+$y_p(x)= \alpha * e^{kx}$
+indsætter alpha
+$y_p(x)=-\frac {1} {2} * e^{kx}$
+
+nu har vi den genneralle løsning
+
+$y(x) = -\frac{1}{2}e^{2x} + Ae^{3x} + Be^{-2x}$
+fra vores k fra tidligere og de K vi havde fra vores homogene løsning.
+
+Nu skal vi finde den specifike løsning:
+x=0
+i) $y(x_0) = \lambda_o$ = -2
+ii) $\frac{dy(x)}{dx} = \lambda_1$ = 5
+
+Indsæt i fuldstændig løsning
