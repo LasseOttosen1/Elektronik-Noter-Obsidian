@@ -88,7 +88,7 @@ Gæt $y_{p}(x)$ -> indsæt i DL -> HS = VS
 nej = nyt gæt
 ja = $y_{p}(x)$ er en partikulær løsning
 
-Specifik løsning, 2 radbetingelser
+Specifik løsning, 2 randbetingelser ( )
 
 i) $y(x_0) = \lambda_o$
 ii) $\frac{dy(x)}{dx} = \lambda_1$
@@ -122,6 +122,15 @@ f(x)= 1*e^2x
 hvad gætter vi på?, kig i skema 
 $y_p(x)= \alpha * e^{kx}$
 
-$\frac{dy}{dx} = 2de^{2x}$
+$\frac{dy}{dx} = 2\alpha e^{2x}$
 
-$\frac{d^2y_p}{dx^2} = \frac{d}{dx} \cdot \frac{d}{dx} y_p(x) = 4de^{2x}$
+$\frac{d^2y_p}{dx^2} = \frac{d}{dx} \cdot \frac{d}{dx} y_p(x) = 4\alpha e^{2x}$
+
+indsætter i VS:
+$\frac{1}{2}(2*\alpha e^{2x}) - \frac{1}{2}(4*\alpha e^{2x}) - 3\alpha e^{2x}$
+det giver
+$-2\alpha e^{2x}$
+HS:
+$1*e^{2x}$
+
+er VS = HS?
