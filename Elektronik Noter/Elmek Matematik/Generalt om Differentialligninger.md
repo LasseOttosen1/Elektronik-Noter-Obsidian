@@ -160,4 +160,8 @@ Differentier fuldstændig løsning og brug ii)
 $\frac{dy(0)}{dx} = 2\left(-\frac{1}{2}e^{2 \cdot 0}\right) + Ae^{3 \cdot 0} - 2 \cdot 0$
 
 3A-2b=6
-nu har vi 2 løsninger hvor vi kan solve efter 
+nu har vi 2 løsninger, nu kan vi solver efter A og B
+![[Pasted image 20261123091446.png]]
+
+SÅ den specifik løsn:
+$y_s(x)=-\frac {1}{2}e^{2x}+\frac {3}{5}e^{3x}-\frac {21}{10}e^{-2x}$
