@@ -90,4 +90,15 @@ ja = $y_{p}(x)$ er en partikulær løsning
 
 Specifik løsning, 2 radbetingelser
 
-i) $y(x_0) = \lamda_o$
+i) $y(x_0) = \lambda_o$
+ii) $\frac{dy(x)}{dx} = \lambda_1$
+
+eksempel: 
+$\frac{1}{2}\frac{d^2y}{dx^2} - \frac{1}{2}\frac{dy}{dx} - 3y = e^{2x}$
+
+afh var: y(x)
+uafh var: x
+orden: 2
+grad = 1 
+lineær = ja
+inhomofwn
