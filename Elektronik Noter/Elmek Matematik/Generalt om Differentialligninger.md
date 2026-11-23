@@ -93,7 +93,19 @@ Specifik løsning, 2 randbetingelser ( )
 i) $y(x_0) = \lambda_o$
 ii) $\frac{dy(x)}{dx} = \lambda_1$
 
-eksempel: 
+**Så den fulde raket for at løse en differentialligning af anden orden er således**
+*Find homogen løsning*
+*Find Partikulær løsning*
+*sæt den på genneral løsning*
+*![[Pasted image 20261123083057.png|285]]*
+
+*Find de 2 randbetengelser* 
+*i) $y(x_0) = \lambda_o$*
+*ii) $\frac{dy(x)}{dx} = \lambda_1$*
+
+sæt de hele sammen og den er løst. 
+
+**eksempel:** 
 $\frac{1}{2}\frac{d^2y}{dx^2} - \frac{1}{2}\frac{dy}{dx} - 3y = e^{2x}$
 
 afh var: y(x)
