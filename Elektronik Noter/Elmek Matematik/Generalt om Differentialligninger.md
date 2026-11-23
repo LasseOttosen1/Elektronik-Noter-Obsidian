@@ -140,7 +140,7 @@ $\frac{dy}{dx} = 2\alpha e^{2x}$
 $\frac{d^2y_p}{dx^2} = \frac{d}{dx} \cdot \frac{d}{dx} y_p(x) = 4\alpha e^{2x}$
 
 indsætter i VS:
-$\frac{1}{2}(2*\alpha e^{2x}) - \frac{1}{2}(4*\alpha e^{2x}) - 3\alpha e^{2x}$
+$\frac{1}{2}(4\alpha e^{2x}) - \frac{1}{2}(2*\alpha e^{2x}) - 3\alpha e^{2x}$
 det giver
 $-2\alpha e^{2x}$
 HS:
