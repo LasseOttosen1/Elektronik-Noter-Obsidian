@@ -143,6 +143,8 @@ $y_p(x)=-\frac {1} {2} * e^{kx}$
 
 nu har vi den genneralle løsning
 
+![[Pasted image 20261123083057.png|285]]
+
 $y(x) = -\frac{1}{2}e^{2x} + Ae^{3x} + Be^{-2x}$
 fra vores k fra tidligere og de K vi havde fra vores homogene løsning.
 
@@ -165,3 +167,4 @@ nu har vi 2 løsninger, nu kan vi solver efter A og B
 
 SÅ den specifik løsn:
 $y_s(x)=-\frac {1}{2}e^{2x}+\frac {3}{5}e^{3x}-\frac {21}{10}e^{-2x}$
+fordi ![[Pasted image 20261123083057.png|285]] booom
