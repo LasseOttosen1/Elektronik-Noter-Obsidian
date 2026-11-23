@@ -146,7 +146,7 @@ $-2\alpha e^{2x}$
 HS:
 $1*e^{2x}$
 
-
+	
 finder hvad alpha er  ved at sætte VS=HS
 $\alpha = -\frac {1} {2}$
 så fra vores gæt for vi at
