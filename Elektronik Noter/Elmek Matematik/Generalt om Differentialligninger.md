@@ -149,6 +149,15 @@ fra vores k fra tidligere og de K vi havde fra vores homogene løsning.
 Nu skal vi finde den specifike løsning:
 x=0
 i) $y(x_0) = \lambda_o$ = -2
-ii) $\frac{dy(x)}{dx} = \lambda_1$ = 5
+ii) $\frac{dy(x_0)}{dx} = \lambda_1$ = 5
 
-Indsæt i fuldstændig løsning
+Indsæt i fuldstændig løsning i)
+$y(0) = -\frac{1}{2}e^{2 \cdot 0} + Ae^{3 \cdot 0} + Be^{-2 \cdot 0}$
+
+A+B = -3/2
+
+Differentier fuldstændig løsning og brug ii)
+$\frac{dy(0)}{dx} = 2\left(-\frac{1}{2}e^{2 \cdot 0}\right) + Ae^{3 \cdot 0} - 2 \cdot 0$
+
+3A-2b=6
+nu har vi 2 løsninger hvor vi kan solve efter 
