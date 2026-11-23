@@ -82,7 +82,8 @@ hvor $y_{hom}(x)$ her er f(x)=0
 og $y_{p}(x)$ her er f(x) ikke 0
 
 Gæt på noget der ligner f(x)
-![[Pasted image 20261123083303.png|360]]
+![[Pasted image 20261123094235.png|482]]
+HVIS man har en hvor Alpha_0 indgår, skal man huske at når man finder den partikulære løsning, skal man læse efter dem som ganges med den uafhængige variable, og den hvor man ikke gør.
 
 Gæt $y_{p}(x)$ -> indsæt i DL -> HS = VS 
 nej = nyt gæt
