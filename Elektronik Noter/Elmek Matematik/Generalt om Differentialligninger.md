@@ -65,3 +65,19 @@ hvor $A$ og $B$ er reelle tal, $A, B \in \mathbb{R}$.
 eksempel på et anden ordens kredsløb
 
 ![[Pasted image 20261116083521.png|477]]
+
+### Anden ordens differentialligning inhomogen
+
+Partikuler løsning:
+
+$y_{p}(x)$
+
+indsæt i DL
+
+VS=HS=f(x)
+
+Fuldstændig/general løsning.
+![[Pasted image 20261123083057.png|285]]
+
+Gæt på noget der lign
+
