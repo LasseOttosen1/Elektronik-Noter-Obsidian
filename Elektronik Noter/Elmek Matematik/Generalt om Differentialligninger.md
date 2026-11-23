@@ -121,9 +121,9 @@ c = -3
 
 Homogen løsning $y_h(x)$
 
-1/2k-1/2k -3 = 0
+1/2k^2-1/2k -3 = 0
 k = 1/2k +- 5/2 , k = 3 og k = -2
-
+![[Pasted image 20261123104325.png]]
 gå op og kig i cases
 
 case I
