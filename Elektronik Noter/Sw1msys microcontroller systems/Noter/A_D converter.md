@@ -12,9 +12,15 @@ $\frac{128}{16.000.000}*13 = 104 \micro s$
 ![[Pasted image 20261124090517.png]]
 ![[Pasted image 20261124090622.png]]
 #### Vigtige registre: 
+![[Pasted image 20261124092336.png|522]]
+
 ![[Pasted image 20261124085924.png|527]]
+
 ![[Pasted image 20261124085834.png|522]]
+
 ![[Pasted image 20261124084902.png|520]]
+
 ![[Pasted image 20261124085949.png|526]]
+
 ![[Pasted image 20261124091559.png|528]]
 
