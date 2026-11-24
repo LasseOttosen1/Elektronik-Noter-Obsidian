@@ -49,7 +49,8 @@ hvor $A$ og $B$ er reelle tal, $A, B \in \mathbb{R}$.
 $D<0$:
 
 $k = \dfrac{-b \pm \sqrt{D}}{2a} = -\dfrac{b}{2a} \pm j\dfrac{\sqrt{4ac-b^2}}{2a}$,
-hvor $\alpha = -\dfrac{b}{2a}$ og $\beta = \dfrac{\sqrt{4ac-b^2}}{2}$.
+hvor $\alpha = -\dfrac{b}{2a}$ og $\beta = \dfrac{\sqrt{4ac-b^2}}{2}$. (alpha er rigtig, beta er ikke brug under istedet.)
+![[Pasted image 20261124082057.png|448]]
 
 Fuldstændig homogen løsning: $Y_h(x) = e^{\alpha x}\bigl(A\cos(\beta x) + B\sin(\beta x)\bigr)$
 hvor $A$ og $B$ er reelle tal, $A, B \in \mathbb{R}$.
